@@ -1,8 +1,7 @@
 ---
-title: "Bloglarımı birleştirdim"
+title: "Blog'larımı birleştirdim"
 date: 2019-11-19T14:41:29+03:00
 draft: false
-type: "page"
 ---
 
 TLDR; farklı yerlerdeki blog yazılarımı tek bir mecraya topluyorum. Framework olarak hugo, hosting için ise netlify kullanıyorum.

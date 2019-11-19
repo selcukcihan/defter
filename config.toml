@@ -1,6 +1,6 @@
 baseURL = "https://blog.selcukcihan.com/"
 languageCode = "tr-TR"
-title = "Yazılımcıdan derlemeler"
+title = "Yazılım ile ilgili notlar"
 theme = "ezhil"
 
 copyright = "© Selçuk Cihan"
@@ -20,7 +20,7 @@ paginate = 10
 
 [params]
     # Blog subtitle which appears below blog title. Supports markdown.
-    subtitle = "Öğrenme merkezime hoş geldiniz - *\"Söz uçar, yazı kalır\"*"
+    subtitle = "Çözdüğüm problemleri ve bu yolda öğrendiklerimi yazıyorum. - *\"Söz uçar, yazı kalır\"*"
 
     # Content types which are included in home page recent posts list.
     mainSections = ["posts"]
