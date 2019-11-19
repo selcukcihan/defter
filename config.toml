@@ -2,7 +2,7 @@ baseURL = "https://blog.selcukcihan.com/"
 languageCode = "tr-TR"
 title = "Yazılım ile ilgili notlar"
 theme = "ezhil"
-
+DefaultContentLanguage = "tr"
 copyright = "© Selçuk Cihan"
 
 # Enable syntax highlighting.
@@ -65,11 +65,6 @@ weight = 2
 name = "Etiketler"
 url = "/tags"
 weight = 3
-
-[[menu.main]]
-name = "Hakkında"
-url = "/about"
-weight = 4
 
 # Social media links which shows up on site header.
 # Uses feather icons for icons. You can [search icon names from here](https://feathericons.com/).

@@ -1,5 +1,6 @@
 ---
 title: "Blog'larımı birleştirdim"
+tags: ["Blog", "hugo", "netlify", "statik web sitesi", "go", "static web site", "deployment", "subdomain"]
 date: 2019-11-19T14:41:29+03:00
 draft: false
 ---
@@ -73,17 +74,18 @@ brew install hugo
 hugo new site defter
 ```
 
-3. Git repository'si oluşturdum:
+3. Git repo'su oluşturdum:
 
 ```
 cd defter && git init
 ```
 
-4. `.gitignore` dosyası oluşturdum. **public** klasörü, build klasörü gibi, bunu git'e eklemek istemiyoruz. Bu klasörde, netlfiy üzerinden sunacağımız dosyalar bulunacak. Buradaki tüm dosyalar hugo'nun otomatik olarak oluşturacağı dosyalar.
+4. `.gitignore` dosyası oluşturdum. *public* klasörü, build klasörü gibi, bunu git'e eklemek istemiyoruz. Bu klasörde, netlfiy üzerinden sunacağımız dosyalar bulunacak. Buradaki tüm dosyalar hugo'nun otomatik olarak oluşturacağı dosyalar.
 
 ```
+# .gitignore dosyasının içeriği
 /public
-
+.DS_Store
 ```
 
 5. Netlify için deployment tercihlerimi netlify.toml dosyasının içine koydum:
@@ -110,7 +112,7 @@ git submodule add https://github.com/vividvilla/ezhil.git themes/ezhil
 
 ```
 hugo new posts/bloglari-birlestir.md
-```
+```Oluşturulan boş markdown dosyasını düzenleyerek, içeriğimi ekledim.
 
 8. Kendi bilgisayarımda blog uygulamasını ayağa kaldırıp, çalıştığını gördüm:
 
@@ -118,13 +120,13 @@ hugo new posts/bloglari-birlestir.md
 hugo server -D
 ```
 
-9. Değişikliklerimi git repository'me commitledim:
+9. Değişikliklerimi git repo'ma commitledim:
 
 ```
 git add . && git commit -m "Hugo ile blog ekle"
 ```
 
-10. Github'da remote repository oluşturdum ve değişikliklerimi *push* ettim:
+10. Github'da remote repo oluşturdum ve değişikliklerimi *push* ettim:
 ![Github'da yeni repo oluşturma][1]
 
 ```
@@ -132,7 +134,7 @@ git remote add origin https://github.com/selcukcihan/defter.git
 git push -u origin master
 ```
 
-11. [Netlify üzerinden](https://app.netlify.com/start), yeni siteyi oluşturmaya başladım. *Continuous deployment* olarak github'ı seçip, github'daki repository için netlify'a izin verdim.
+11. [Netlify üzerinden](https://app.netlify.com/start), yeni siteyi oluşturmaya başladım. *Continuous deployment* olarak github'ı seçip, github'daki repo için netlify'a izin verdim.
 ![Netlify için github'daki repo'ya erişim izni ver][2]
 
 12. *Deploy site* diyerek, blog'umu yayınlamaya başladım.
