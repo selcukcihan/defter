@@ -24,6 +24,8 @@ paginate = 10
     # Blog subtitle which appears below blog title. Supports markdown.
     subtitle = "Çözdüğüm problemleri ve bu yolda öğrendiklerimi yazıyorum. - *\"Söz uçar, yazı kalır\"*"
 
+    description = "Kişisel weblog'um. Denemelerim, tecrübelerim ve öğrendiklerimi paylaşıyorum."
+
     # Content types which are included in home page recent posts list.
     mainSections = ["bulut-bilisim", "diger", "metodoloji", "web-development"]
 
@@ -34,6 +36,8 @@ paginate = 10
     featherIconsCDN = true
 
     favicon = "/icons/favicon-16x16.png"
+
+    images = ["/icons/favicon-16x16.png"]
 
     # Switch to dark mode or auto detect mode from OS (Optional).
     # "dark" will set mode to dark and "auto" will switch to dark mode if OS is in dark mode.
