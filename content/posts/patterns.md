@@ -5,9 +5,7 @@ date: 2016-07-15T14:41:29+03:00
 draft: false
 ---
 
-
-Pattern (Kalıp) Nedir?
-----------------------------
+Yazılımda kodun anlaşılabilir olması önemlidir. Anlaşılır kod yazabilmek için istifade edebileceğimiz bazı kalıplar var. Bu makalede, yazılım kalıplarına genel bir bakış atıyoruz.
 
 Pattern kelimesini *desen* olarak çeviriyorlar, fakat bence bu anlamı karşılamıyor.
 Desen deyince kafamda şekiller falan canlanıyor.
