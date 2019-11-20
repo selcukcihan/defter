@@ -35,9 +35,9 @@ paginate = 10
     # If social media links are enabled then enable this to fetch icons from CDN instead of hosted on your site.
     featherIconsCDN = true
 
-    favicon = "/icons/favicon-16x16.png"
+    favicon = "/icons/favicon.ico"
 
-    images = ["/icons/favicon-16x16.png"]
+    images = ["/icons/android-chrome-192x192.png"]
 
     # Switch to dark mode or auto detect mode from OS (Optional).
     # "dark" will set mode to dark and "auto" will switch to dark mode if OS is in dark mode.
