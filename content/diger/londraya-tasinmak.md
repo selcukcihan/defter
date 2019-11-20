@@ -1,7 +1,7 @@
 ---
 title: "Londra'ya taşınmak"
 tags: ["Londra", "amazon", "taşınmak", "expat", "brp", "ingiltere", "vize", "tier-2", "yurtdışı"]
-date: 2019-11-19T14:41:29+03:00
+date: 2018-09-28T14:41:29+03:00
 draft: false
 ---
 

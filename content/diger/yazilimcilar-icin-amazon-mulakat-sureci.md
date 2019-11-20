@@ -1,7 +1,7 @@
 ---
 title: "Yazılımcılar için Amazon mülakat süreci"
 tags: ["amazon", "mülakat", "yazılım", "algoritma", "yurt dışı", "davranışsal", "teknik"]
-date: 2019-11-19T14:41:29+03:00
+date: 2018-07-29T14:41:29+03:00
 draft: false
 ---
 

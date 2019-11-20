@@ -1,7 +1,7 @@
 ---
 title: "Yazılım mülakatına nasıl hazırlanılır"
 tags: ["amazon", "mülakat", "yazılım", "algoritma", "yurt dışı", "davranışsal", "teknik"]
-date: 2019-11-19T14:41:29+03:00
+date: 2018-09-10T14:41:29+03:00
 draft: false
 ---
 
