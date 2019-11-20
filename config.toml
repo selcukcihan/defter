@@ -23,7 +23,7 @@ paginate = 10
     subtitle = "Çözdüğüm problemleri ve bu yolda öğrendiklerimi yazıyorum. - *\"Söz uçar, yazı kalır\"*"
 
     # Content types which are included in home page recent posts list.
-    mainSections = ["posts"]
+    mainSections = ["bulut-bilisim", "diger", "metodoloji", "web-development"]
 
     # Content types which are excludes Disqus comments.
     disableDisqusTypes = ["page"]
@@ -56,14 +56,34 @@ url = "/"
 weight = 1
 
 [[menu.main]]
-name = "Tüm yazılar"
-url = "/posts"
+name = "Bulut bilişim"
+url = "/bulut-bilisim"
 weight = 2
+
+[[menu.main]]
+name = "Web geliştirme"
+url = "/web-development"
+weight = 3
+
+[[menu.main]]
+name = "Metodoloji"
+url = "/metodoloji"
+weight = 4
+
+[[menu.main]]
+name = "Diğer"
+url = "/diger"
+weight = 5
 
 [[menu.main]]
 name = "Etiketler"
 url = "/tags"
-weight = 3
+weight = 6
+
+[[menu.main]]
+name = "Hakkında"
+url = "/hakkinda"
+weight = 7
 
 # Social media links which shows up on site header.
 # Uses feather icons for icons. You can [search icon names from here](https://feathericons.com/).
@@ -85,4 +105,4 @@ url = "https://linkedin.com/in/selcukcihan"
 
 # Enable tags.
 [taxonomies]
-   tag = "tags"
+    tag = "tags"

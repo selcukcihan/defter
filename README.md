@@ -2,4 +2,4 @@
 
 ## Hakkında
 
-Burada [blog.selcukcihan.com](https://blog.selcukcihan.com/) üzerinden yayınladığım blog'umun kaynak kodunu bulabilirsiniz. Blog'u nasıl ayağa kaldırdığım ve nasıl ayarladığımla alakalı [şu yazımı](https://blog.selcukcihan.com/posts/bloglari-birlestir/) okumanızı tavsiye ederim.
+Burada [blog.selcukcihan.com](https://blog.selcukcihan.com/) üzerinden yayınladığım blog'umun kaynak kodunu bulabilirsiniz. Blog'u nasıl ayağa kaldırdığım ve nasıl ayarladığımla alakalı [şu yazımı](https://blog.selcukcihan.com/web-development/bloglari-birlestir/) okumanızı tavsiye ederim.
