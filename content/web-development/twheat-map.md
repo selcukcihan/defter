@@ -3,8 +3,8 @@ title: "Twitter haritası - 1"
 date: 2019-11-22T10:48:36+03:00
 ---
 
-Son zamanlarda [twitter'ı](https://twitter.com/scihan) çok sık kullanmaya başladım.
-Twitter, *developer'lara* kendi uygulamalarını geliştirmeleri için bazı *API* metodları sunuyor.
+Son zamanlarda twitter'ı çok sık kullanmaya başladım.
+Twitter, developer'lara kendi uygulamalarını geliştirmeleri için bazı API metodları sunuyor.
 Bu metodları kullanan basit bir uygulama yapmak istedim.
 
 ## TL;DR
