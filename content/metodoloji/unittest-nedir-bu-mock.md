@@ -29,7 +29,7 @@ Nasıl Kullanılır
 Gerçek hayata oldukça yaklaşan bir örnek üzerinden gidelim.
 Bir klasördeki, belirli bir uzantıya sahip bütün dosyaları listeleyen bir metodumuz olsa:
 
-```python
+```
 # -*- coding: utf-8 -*-
 
 import os.path
@@ -43,7 +43,7 @@ def get_files_from(directory, extension):
 
 Bu metod için, her zaman yaptığımız gibi bir unit test yazsak:
 
-```python
+```
 import unittest
 
 class GetFilesFromTestCase(unittest.TestCase):
@@ -83,7 +83,7 @@ Hayır, istemeyiz. Derdimiz dosyaların listelenmesi değil ki, derdimiz dosyala
 Bu kadar laf ebeliği yeter, bir resim bin kelimeye bedel diyerek koda geçelim:
 
 
-```python
+```
     # GetFilesFromTestCase class'ına aşağıdaki metodu ekliyoruz
 
     import mock
@@ -137,7 +137,7 @@ Burada onun hiç kabahati yok, unutmayın ki o emrimize amade bir emir kulu, ne 
 **Ona beklediğimiz sonucu vermesini söylemedik ki!!!**
 Beklediğimiz sonucu vermesini şöyle söyleyeceğiz: `mock_glob.return_value = ['test_mock.py']`. Hatalı test metodumuzu silip, şu yeni haliyle tekrar ekleyelim:
 
-```python
+```
     @mock.patch('test_mock.glob.glob')
     def test_get_files_from_with_mock(self, mock_glob):
         """get_files_from metodu için mock kullanan doğru unittest."""
@@ -172,7 +172,7 @@ Tıpkı, `assert_called_with` metodunu `get_files_from` metodundan önce çağı
 
 Bütün Kod
 ---------
-```python
+```
 # -*- coding: utf-8 -*-
 
 import os.path
