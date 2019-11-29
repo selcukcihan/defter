@@ -19,6 +19,7 @@ enableRobotsTXT = true
 
 # Number of posts to show in recent posts list (Optional). Defaults to 10.
 paginate = 10
+enableEmoji = true
 
 [params]
     # Blog subtitle which appears below blog title. Supports markdown.

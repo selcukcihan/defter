@@ -1,5 +1,6 @@
 ---
 title: "Twitter haritası - 1"
+tags: ["react", "twitter", "javascript", "nodejs", "uygulama", "takipçi", "lokasyon", "backend", "sunucu", "serverless", "aws", "lambda", "api gateway", "api", "rest"]
 date: 2019-11-22T10:48:36+03:00
 ---
 
@@ -225,6 +226,9 @@ Uygulama için düşündüğüm bazı iyileştirmeler var:
 * Twitter API metodundan gelen bilgileri veritabanında saklayıp her seferinde API çağırmaktansa veritabanında varsa oradan kullanmak.
 Tabi arada (mesela veritabanındaki data bir haftadan eskiyse) gidip Twitter'dan tekrar güncel datayı çekmek gerekecektir.
 * Sunucumuzdaki kendi API metodumuzu asenkron hale getirmek, yani istemci bana koordinatları ver dediğinde cevabı hemen beklemeyecek, onun yerine Web socket kullanarak Twitter'dan data çektikçe sunucudan istemciye koordinatları göndereceğiz.
+* Yaklaşık 250 kişilik arkadaş listem var ve 12-13 saniyede sonuçlar ancak geliyor, hızlandırmak lazım.
+
+[Serinin ikinci yazısında](/web-development/twheat-map-2), uygulamayı basit bir geliştirmeyle hızlandırıyorum.
 
 [1]: /img/twheat-map/heat_map.png
 [2]: /img/twheat-map/twitter_dev_app.png
