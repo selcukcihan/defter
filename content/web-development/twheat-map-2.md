@@ -316,6 +316,8 @@ Bunun faydası hem Twitter API'ını çağırıp vakit kaybını önleyecek, hem
 Hobi uygulamam için Twitter'a para ödemeyi düşünmüyorum.
 O yüzden, API metodlarını ne kadar az çağırırsam o kadar iyi.
 
+Sunucu tarafındaki projeye CI/CD süreci eklediğim yazı için [tıklayın](/devops/travis-ci). 
+
 [1]: /img/twheat-map-2/slow_api_call.png
 [2]: /img/twheat-map-2/cloudwatch_lambda_latency.png
 [3]: /img/twheat-map-2/cloudwatch_yeni_olcumler.png

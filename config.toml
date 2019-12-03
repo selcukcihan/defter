@@ -28,7 +28,7 @@ enableEmoji = true
     description = "Kişisel weblog'um. Denemelerim, tecrübelerim ve öğrendiklerimi paylaşıyorum."
 
     # Content types which are included in home page recent posts list.
-    mainSections = ["bulut-bilisim", "diger", "metodoloji", "web-development"]
+    mainSections = ["bulut-bilisim", "diger", "metodoloji", "web-development", "devops"]
 
     # Content types which are excludes Disqus comments.
     disableDisqusTypes = ["page"]
@@ -73,24 +73,29 @@ url = "/web-development"
 weight = 3
 
 [[menu.main]]
+name = "Dev-ops"
+url = "/devops"
+weight = 4
+
+[[menu.main]]
 name = "Metodoloji"
 url = "/metodoloji"
-weight = 4
+weight = 5
 
 [[menu.main]]
 name = "Diğer"
 url = "/diger"
-weight = 5
+weight = 6
 
 [[menu.main]]
 name = "Etiketler"
 url = "/tags"
-weight = 6
+weight = 7
 
 [[menu.main]]
 name = "Hakkında"
 url = "/hakkinda"
-weight = 7
+weight = 8
 
 # Social media links which shows up on site header.
 # Uses feather icons for icons. You can [search icon names from here](https://feathericons.com/).
