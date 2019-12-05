@@ -1,11 +1,12 @@
 ---
 title: "Hakkında"
-date: 2019-01-10T14:41:29+03:00
 draft: false
 type: page
 ---
 
 On yılı aşkın bir süredir [yazılım mühendisi](https://www.selcukcihan.com) olarak çalışıyorum.
+[Toptal](https://www.toptal.com/aws#delivers-value) üzerinden, *freelance* olarak dünyanın dört bir yanındaki müşteriler için uygulama geliştirme ve danışmanlık hizmetleri veriyorum.
+
 **Yazmamdaki amaç, bildiklerimi ve öğrendiklerimi pekiştirmek.**
 Bunun yanında yazmak, çözdüğüm bir probleme benzer başka bir problemle karşılaşırsam, geri dönüp neler yaptığıma bakabilmemi de sağlıyor.
 
