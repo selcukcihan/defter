@@ -97,4 +97,7 @@ Bir diğer önemli husus da, ssh yapıp loglarına bakacağınız bir makina olm
 Uygulamanızda bir hata olduğunda bunu kolayca bulabilmek için AWS'nin sunmuş olduğu CloudWatch ve [X-Ray](https://aws.amazon.com/xray/) gibi servislerinden faydalanmanız gerekiyor.
 Lambda'yı bir karakutu olmaktan çıkarmak ve nasıl davrandığını anlayabilmek için [Twitter haritası - 2](/web-development/twheat-map-2) yazımda değinmiş olduğum *observability* mefhumuna önem vermeniz gerekiyor.
 
+Lambda'nın ne olduğunu ve neler yapabildiğini öğrendiğik.
+[Bir sonraki yazımda](/bulut-bilisim/aws-lambda-ornek), gerçek bir örnek üzerinden lambda kodu nasıl yazılır ve nasıl deploy edilir göreceğiz.
+
 [1]: /img/aws-lambda-giris/lambda_designer.png
