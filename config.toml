@@ -18,7 +18,7 @@ disqusShortname = "blog-selcukcihan-com"
 enableRobotsTXT = true
 
 # Number of posts to show in recent posts list (Optional). Defaults to 10.
-paginate = 10
+paginate = 7
 enableEmoji = true
 
 [params]
