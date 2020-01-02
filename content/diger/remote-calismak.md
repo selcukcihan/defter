@@ -3,6 +3,7 @@ title: "Remote çalışmak"
 tags: ["remote", "uzaktan", "freelance", "toptal"]
 date: 2020-01-02T04:41:29+03:00
 draft: false
+images: ["/img/remote-calismak/remote.jpg"]
 ---
 
 İlerleyen teknoloji ile birlikte, uzaktan (remote) çalışmak mümkün hale geldi.
