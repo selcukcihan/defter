@@ -3,11 +3,15 @@ title: "Yazılımcılar için Amazon mülakat süreci"
 tags: ["amazon", "mülakat", "yazılım", "algoritma", "yurt dışı", "davranışsal", "teknik"]
 date: 2018-07-29T14:41:29+03:00
 draft: false
+images: ["/img/yazilimcilar-icin-amazon-mulakat-sureci/whiteboard.jpg"]
 ---
 
 Amazon'da yazılım mühendisi olmak için, zorlu bir mülakat sürecinden geçmeniz gerekiyor. Bu yazıda, başarı ihtimalinizi artırmak için neler yapmanız gerektiğini anlattım.
 
 *Burada yazdıklarım şahsi fikir ve yorumlarım olup, Amazon firmasını bağlamamaktadır.*
+
+![White board][1]
+<center>*Photo by Paul Hanaoka on Unsplash*</center>
 
 ## Genel bilgilendirme
 
@@ -99,3 +103,5 @@ Kitabına göre üzüleyim derseniz, Kübler-Ross modelini [^8] bir inceleyin :)
 [^8]: [Wikipedia - Kübler - Ross modeli](https://en.wikipedia.org/wiki/K%C3%BCbler-Ross_model)
 [^9]: [Wikipedia - NDA](https://en.wikipedia.org/wiki/Non-disclosure_agreement)
 [^10]: [Rize - yöresel kıyafetler](http://www.rizekulturturizm.gov.tr/TR,113098/erkek-kiyafetleri.html)
+
+[1]: /img/yazilimcilar-icin-amazon-mulakat-sureci/whiteboard.jpg
