@@ -11,7 +11,7 @@ Amazon'da yazılım mühendisi olmak için, zorlu bir mülakat sürecinden geçm
 *Burada yazdıklarım şahsi fikir ve yorumlarım olup, Amazon firmasını bağlamamaktadır.*
 
 ![White board][11]
-<center>*Photo by Paul Hanaoka on Unsplash*</center>
+<center>*Fotoğraf Unsplash'ta Paul Hanaoka'ya aittir.*</center>
 
 ## Genel bilgilendirme
 

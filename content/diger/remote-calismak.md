@@ -14,7 +14,7 @@ Son iki yıldır *freelancer* olarak, bir ofise gitmeden, çalışma odamdan iş
 Uzaktan çalışmanın avantajlarını ve dezavantajlarını, yaşadığım kadarıyla anlatacağım.
 
 ![Promise loop][1]
-<center>*Photo by Work With Island on Unsplash*</center>
+<center>*Fotoğraf Unsplash'ta Work With Island'a aittir.*</center>
 
 ## Yazılım sektöründe *remote*
 Yazılım sektörü uzaktan çalışmak için en elverişli sektörlerden biri.
