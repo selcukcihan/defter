@@ -11,3 +11,17 @@ body {
     background-color: #657b83;
     color: #FDF6E3;
 }
+
+/*
+    foot-note uzerinde ingilizce "return" ibaresinin yerine
+    turkce "geri don" yazmak icin
+*/
+a.footnote-return > sup {
+    visibility: hidden;
+}
+
+a.footnote-return > sup:before {
+    content: '[geri dön]';
+    visibility: visible;
+    font-size: 75%;
+}
