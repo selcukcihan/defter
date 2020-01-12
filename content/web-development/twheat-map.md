@@ -2,6 +2,7 @@
 title: "Twitter haritası - 1"
 tags: ["react", "twitter", "javascript", "nodejs", "uygulama", "takipçi", "lokasyon", "backend", "sunucu", "serverless", "aws", "lambda", "api gateway", "api", "rest"]
 date: 2019-11-22T10:48:36+03:00
+images: ["/img/twheat-map/react_harita.png"]
 ---
 
 Son zamanlarda twitter'ı çok sık kullanmaya başladım.
