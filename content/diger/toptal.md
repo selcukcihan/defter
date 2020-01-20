@@ -7,7 +7,7 @@ images: ["/img/toptal/traffic.jpg"]
 ---
 
 Sabah 6:30'da kalkıyorsunuz, hava henüz aydınlanmamış.
-Uykunuz açılmamış, kahvaltı yapmak için bile **çok erken bir saat**.
+Uykunuz açılmamış, kahvaltı yapmak için bile çok erken bir saat.
 Servis 6:45'te alacak sizi, malum TEM'de **trafik** erken başlar.
 Araca biniyorsunuz, içerisi buz gibi.
 Geyik yaptığınız servis arkadaşınız uyuyor.
