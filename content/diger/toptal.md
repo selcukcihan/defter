@@ -163,7 +163,7 @@ Toptal üzerinden son iki yılda iki farklı müşteriyle çalıştım.
 İkisi de çok keyifliydi ve çok şey öğrendim.
 Mesela serverless teknolojileriyle tanışmamı Toptal'a borçluyum.
 Ödemelerde hiçbir sıkıntı yaşamadım.
-Müşteri bulmakta da bir problem yaşamadım, iki müşteriyi de arayışa geçtikten sonra ki üç hafta içerisinde bulmuştum.
+Müşteri bulmakta da bir problem yaşamadım, iki müşteriyi de arayışa geçtikten sonraki üç hafta içerisinde bulmuştum.
 
 Merak ettiğiniz diğer hususlar varsa yorumlara yazabilirsiniz, cevaplandırmaya çalışırım.
 Ayrıca özel sorularınız olursa [e-posta](http://selcukcihan.com/), [twitter](https://twitter.com/scihan) veya [linkedin](https://www.linkedin.com/in/selcukcihan/) üzerinden yönlendirebilirsiniz.
