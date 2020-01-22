@@ -72,7 +72,7 @@ Sorgusuz sualsiz uzaktan çalışmak çok iyidir demiyorum, ama eğer mevcut iş
 
 Benim çalışıtğım yer olan Toptal "seçilmiş" *freelancer'lardan* oluşan bir havuz ve buradan pek çok farklı firmaya saatlik ücretinizi kendiniz belirleyerek iş yapabiliyorsunuz.
 Başvurmayı düşünürseniz, bana özel [bu linki](https://www.toptal.com#connect-nothing-but-knowing-app-developers) kullandığınızda eğer mülakat süreçlerini geçip iş almaya başlarsanız ikimiz de 500$ bonus kazanıyoruz.
-Toptal ile ilgili daha fazla bilgi vermek için başka bir yazı daha kaleme alacağım.
+Toptal ile ilgili daha fazla bilgiyi [serinin diğer yazısında](/diger/toptal) bulabilirsiniz.
 
 [1]: /img/remote-calismak/remote.jpg
 
