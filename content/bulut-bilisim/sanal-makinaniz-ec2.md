@@ -3,9 +3,13 @@ title: "Sanal makinanız EC2"
 tags: ["aws", "bulut", "ec2", "sanal makina", "sanal", "web uygulaması", "sunucu", "server", "ssh", "ami", "t2.micro", "ücretsiz"]
 date: 2019-11-05T14:41:29+03:00
 draft: false
+images: ["/img/sanal-makinaniz-ec2/matrix.jpg"]
 ---
 
 AWS sanal makinalarını EC2 adı verilen hizmet ile sunuyor. Anlık olarak sanal makina başlatıp, sadece kullandığınız miktar kadar ücret ödüyorsunuz. [Ücretsiz kullanım kotası](https://aws.amazon.com/tr/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc) kapsamında, bir yıl boyunca “t2.micro” türündeki bir makinayı kullanma hakkına sahipsiniz. "t2.micro" makinaları, basit web uygulamaları için kullanabilirsiniz.
+
+![Matrix][1]
+<center>*Fotoğraf Unsplash'ta Markus Spiske'ye aittir.*</center>
 
 AWS, farklı [türlerde sanal makinalar](https://aws.amazon.com/tr/ec2/instance-types/) ile, değişen ihtiyaçlara uygun çok çeşitli donanımlar sunuyor. Sadece “t2.micro” türündeki makinalar ücretsiz kullanım kotasına dahil olduğu için, biz şimdilik bunu kullanacağız. Mesela GPU ihtiyacı olan bir uygulama yapacak olsaydık, “p3.8xlarge” türündeki bir sanal makinayı kullanmayı düşünebilirdik.
 
@@ -70,3 +74,5 @@ Web sunucunuz hayırlı olsun. Sanal makinanızı durdurmak için, menüden “S
 ![Lüzumsuz ise söndürün.](https://cdn-images-1.medium.com/max/2532/1*bVIHgEFbGearVW5MczKMRw.png)*Lüzumsuz ise söndürün.*
 
 AWS hizmetlerini kullanmayı düşünüyor ve yetkinliğinizi geliştirmek istiyorsanız, [diğer makalelerimizi](/tags/aws) de okuyun. Bunun yanında, kurumsal ve startup firmalara sağladığımız [eğitim hizmetine](https://www.bulutla.com/) bir göz atmayı da unutmayın!
+
+[1]: /img/sanal-makinaniz-ec2/matrix.jpg
