@@ -88,13 +88,13 @@ Eş zamanlı çalışan kod parçacıkları birbiriyle nasıl iletişim kuracak,
 Sırayla birbirine en yakın birimlerden başlayıp, araları en açık olana doğru gideceğiz.
 Bu sıralamada, bir sonraki için geçerli olan iletişim biçimi ondan önce gelen tümü için de kullanılabilir.
 
-## Multithread
+## Multi-threading
 Burada söylenecek fazla bir şey yok.
 Thread'ler arası iletişim gayet basit, *memory* tüm *thread*'ler tarafından görülebiliyor.
 Global bir değişkeniniz varsa, tüm *thread*'ler bunu okuyup yazabilir.
 Dikkat edilmesi gereken husus *race condition*'lar.
 
-## Multiprocessing
+## Multi-processing
 Aynı makina üzerindeki iki *process*'in birbiriyle iletişim kurabileceği farklı yollar var:
 
 * pipe: Bir taraftan yazılır diğer taraftan okunur
