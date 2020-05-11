@@ -95,4 +95,5 @@ Turuncu “public” yazısını gördüyseniz, artık websiteniz ziyaretçileri
 
 ![Biraz basit kaçtı galiba :) Ama vurgu yapmak istediğimiz şey S3 ile websitenizi **nasıl** host edeceğinizdi, websitenizi nasıl tasarlarsınız o apayrı bir mevzu.](https://cdn-images-1.medium.com/max/3536/1*B33GJIdzAuD6fDWGh9H4iQ.png)*Biraz basit kaçtı galiba :) Ama vurgu yapmak istediğimiz şey S3 ile websitenizi nasıl host edeceğinizdi, websitenizi nasıl tasarlarsınız o apayrı bir mevzu.*
 
+S3 ile ilgili dikkat edilmesi gereken önemli hususlar için, [ilgili yazıyı](/bulut-bilisim/s3-puf-noktalar) okuyabilirsiniz.
 S3 ve diğer AWS hizmetlerini kullanmayı düşünüyor ve yetkinliğinizi geliştirmek istiyorsanız, kurumsal ve startup firmalara sağladığımız [eğitim hizmetine](https://www.bulutla.com/) bir göz atmayı unutmayın!
