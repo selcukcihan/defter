@@ -28,7 +28,7 @@ enableEmoji = true
     description = "Kişisel weblog'um. Denemelerim, tecrübelerim ve öğrendiklerimi paylaşıyorum."
 
     # Content types which are included in home page recent posts list.
-    mainSections = ["bulut-bilisim", "diger", "metodoloji", "web-development", "devops"]
+    mainSections = ["bulut-bilisim", "diger", "metodoloji", "kitap", "web-development", "devops"]
 
     # Content types which are excludes Disqus comments.
     disableDisqusTypes = ["page"]
