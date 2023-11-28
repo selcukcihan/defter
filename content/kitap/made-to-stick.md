@@ -10,6 +10,8 @@ Bu yazıda, [Made to Stick, by Chip Heath & Dan Heath](https://www.amazon.co.uk/
 Kitap destekleyici ve ilginç örneklerle dolu, sırf bu örnekler için okunabilir.
 Çok akıcı bir anlatım yok ama, biraz da düşündürdüğü için belki, diğer kitaplara nispeten geç bitirebildim.
 
+## Özet
+
 Kitap fikirlerimizi nasıl aktarmamız gerektiği yönünde pratik yöntemler ve kurallar veriyor.
 Çarpıcı bir örnekle başlıyor.
 Gazetecilik dersinde hoca öğrencilere bir ödev veriyor:
@@ -53,7 +55,7 @@ Fikrinizin somut olması gerek.
 İnsanlar somut şeyleri daha iyi anlarlar.
 Herkesin aynı şeyi anlayabilmesi için, soyut kavramlardan oldukça uzak durmalıyız.
 
-### C (Credbility)
+### C (Credibility)
 
 Fikrinizin inanılırlığının olması gerek.
 Bu bazen bir istatistikle verilebilir, bazen fikrinizi destekleyen ünlü biri ile olabilir.
@@ -76,8 +78,13 @@ Hikayeler iletişimde çok önemli bir gereçtir.
 Eğer iyi bir hikayeniz varsa, fikrinizin tutulması ve kalıcı olması çok kolaylaşır.
 Hikayeler uydurulmaz, çevrenizden gözlemler yaparak tespit edilmesi gerekir.
 Doğru hikayeyi bulmak kolay değildir.
-
 Hikayelerin diğer bir yönü de, kafamızda olayları canlandırmaya yardım etmesidir.
-Kitapta çok ilginç bir bilgi var:
+Bu şekilde akılda daha çok yer eder fikirler.
+
+## İlginç Notlar
 
 > ... sitting quietly, without moving, and picturing yourself performing a task successfully from start to finish—improves performance significantly.
+
+Kitapta bir yerde bu bilgi veriliyor, araştırmalarla desteklenmiş bir gerçek.
+Bana çok ilginç geldi, aklıma teknik direktör Mustafa Denizli'nin maçlardan önce maçı kafada oynaması geldi.
+Diyor ki; bir işi kafamızda hayal ederek en başından sonuna kadar prova etmek, gerçekte o işi yapacağımız zaman performansımızı belirgin biçimde artırır.
