@@ -10,6 +10,8 @@ Bu yazıda, [Made to Stick, by Chip Heath & Dan Heath](https://www.amazon.co.uk/
 Kitap destekleyici ve ilginç örneklerle dolu, sırf bu örnekler için okunabilir.
 Çok akıcı bir anlatım yok ama, biraz da düşündürdüğü için belki, diğer kitaplara nispeten geç bitirebildim.
 
+![Made to Stick][1]
+
 ## Özet
 
 Kitap fikirlerimizi nasıl aktarmamız gerektiği yönünde pratik yöntemler ve kurallar veriyor.
@@ -88,3 +90,5 @@ Bu şekilde akılda daha çok yer eder fikirler.
 Kitapta bir yerde bu bilgi veriliyor, araştırmalarla desteklenmiş bir gerçek.
 Bana çok ilginç geldi, aklıma teknik direktör Mustafa Denizli'nin maçlardan önce maçı kafada oynaması geldi.
 Diyor ki; bir işi kafamızda hayal ederek en başından sonuna kadar prova etmek, gerçekte o işi yapacağımız zaman performansımızı belirgin biçimde artırır.
+
+[1]: /img/made-to-stick/made_to_stick.jpg
