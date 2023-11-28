@@ -85,19 +85,24 @@ url = "/metodoloji"
 weight = 5
 
 [[menu.main]]
+name = "Kitaplar"
+url = "/kitap"
+weight = 6
+
+[[menu.main]]
 name = "Diğer"
 url = "/diger"
-weight = 6
+weight = 7
 
 [[menu.main]]
 name = "Etiketler"
 url = "/tags"
-weight = 7
+weight = 8
 
 [[menu.main]]
 name = "Hakkında"
 url = "/hakkinda"
-weight = 8
+weight = 9
 
 # Social media links which shows up on site header.
 # Uses feather icons for icons. You can [search icon names from here](https://feathericons.com/).
