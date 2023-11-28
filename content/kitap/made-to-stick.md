@@ -6,9 +6,10 @@ draft: false
 images: ["/img/made-to-stick/made_to_stick.jpg"]
 ---
 
-Bu yazıda, [Made to Stick, by Chip Heath & Dan Heath](https://www.amazon.co.uk/dp/B0031RS2XG) kitabından ne anladığımı bulacaksınız.
+"Made to Stick" adlı kitabı okudum. Bu yazıda, kitaptan ne anladığımı bulacaksınız.
 Kitap destekleyici ve ilginç örneklerle dolu, sırf bu örnekler için okunabilir.
 Çok akıcı bir anlatım yok ama, biraz da düşündürdüğü için belki, diğer kitaplara nispeten geç bitirebildim.
+ Kitaba [bu bağlantıdan](https://www.amazon.co.uk/dp/B0031RS2XG) göz atabilirsiniz.
 
 ![Made to Stick][1]
 
