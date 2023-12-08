@@ -3,7 +3,7 @@ title: "Radical Candor"
 tags: ["fikirler", "akılda kalıcı", "kitap", "SUCCESS", "iletişim", "yöneticilik", "kariyer", "yönetim", "gelişim", "performans", "ilişkiler"]
 date: 2023-12-08T04:41:29+03:00
 draft: false
-images: ["/img/radical-candor/radical_candor.jpg", "/img/radical-candor/radical_candor_cycle.jpg"]
+images: ["/img/radical-candor/radical_candor.jpg", "/img/radical-candor/radical_candor_cycle.png", "/img/radical-candor/radical_candor_chart.png"]
 ---
 
 "Radical Candor" yöneticilikle ilgili güzel bir kitap.
@@ -14,7 +14,22 @@ Kitaba [bu bağlantıdan](https://www.amazon.co.uk/dp/B0031RS2XG) göz atabilirs
 
 ![Radical Candor][1]
 
-## Rehberlik
+# Özet
+
+Candor, açık yüreklilik demek. Yöneticiler açık yürekli olmalı. Överken, eleştirirken, rehberlik ederken, fikir alışverişi yaparken, karar verirken, hâsılı iş yerindeki tüm ilişkileri ve işleyişi içtenlikle yönetmek gerekir.
+
+- Ruinous empathy: Karşı tarafı kırıcı olmaktan korkup eleştirmemek ve neticesinde onlara kendilerini düzeltme fırsatı vermemek.
+- Manipulative insincerity: Karşı tarafa zarar vermek adına eleştirmekten geri durmak, yaptıkları yanlışlara ses etmeyip daha sonra o yanlışların o kişilerin başına iş açmasını ummak.
+- Obnoxious agression: Eleştirilerde acımasız ve empatiden yoksun olmak.
+- Radical candor: Olmak istediğimiz yer, empati sahibi ama açık yürekli ve gerektiğinde lafını esirgemeyen.
+
+Burada önemli bir not, "ruinous emphathy" ve "obnoxious agression" ikilisi arasında daha kötü olan ilki, yani yıkıcı empati.
+Çünkü en azından diğerinde eleştirileri saklamıyoruz, düşüncelerimizi paylaşmaktan çekinmiyoruz.
+
+![Radical Candor Chart][3]
+
+## Detaylar
+### Rehberlik
 
 Yönetici olarak asli göreviniz rehberlik, bunu asla aksatmayın veya ertelemeyin, rehberliğinize şimdi ihtiyaç var.
 Yönetici olarak en önemli sorumluluğunuz rehberlik, sonuca ulaşan yolda rehber olmak.
@@ -23,7 +38,7 @@ Yönetici olarak en önemli sorumluluğunuz rehberlik, sonuca ulaşan yolda rehb
 
 > Guidance, team, and results: these are the responsibilities of any boss. This is equally true for anyone who manages people—CEOs, middle managers, and first-time leaders.
 
-## İletişim
+### İletişim
 
 > Don’t start by bossing people. They’ll just hate you. Start by listening to them.
 
@@ -59,15 +74,15 @@ Buna örnek olarak dişçiye gitmek ve her gün diş fırçalamak verilmiş; al�
 
 > Lack of praise and criticism had absolutely disastrous effects on the team and on our outcomes.
 
-Övgüde bulunurken, genel geçer laflar etmeyin, spesifik olun ki karşı taraf onore olsun ve görüldüğünü anlasın.
-"İyi iş çıkardın" demek yerine, "sistemdeki darboğazı fark edip bu kadar çabuk ve kalıcı bir çözüm getirmen harikaydı" diyebilirsiniz.
+Övgüde bulunurken, genel geçer laflar etmeyin, spesifik olun ki karşı taraf onurlansın ve görüldüğünü anlasın.
+Örnek olarak, kuru kuruya "İyi iş çıkardın" demek yerine, "sistemdeki darboğazı fark edip bu kadar çabuk ve kalıcı bir çözüm getirmen harikaydı" diyebilirsiniz.
 Eleştirileri özelden yapın, başkaları duymasın.
 Eleştirirken, karşı tarafa da mutlaka söz hakkı verin ve eleştiriyi somut örnekler vererek açıklamaya çalışın.
 Olayı karakter veya şahsiyete indirgemeyin.
 
 > The phrase “don’t take it personally” is worse than useless.
 
-## İlgi
+### İlgi
 
 Yöneticilik sadece işleri yoluna koymak değil, size bağlı çalışanlarla ilgilenmek de sizin sorumluluğunuzda.
 Çalışanlarınızın gelişimlerine kafa yorun.
@@ -87,7 +102,7 @@ Kovulması gerektiğinde, çalışanlarınızı nahoşluğu en aza indirmeye gay
 
 Herkese eşit miktarda kendini duyurma fırsatı verin. Bazı elemanlarınızı bu konuda daha fazla teşvik etmeniz gerekebilir, sessiz duranlara seslerini duyurmaları için cesaret ve fırsatlar verin.
 
-## İcra
+### İcra
 
 ![Radical Candor Cycle][2]
 
@@ -125,4 +140,5 @@ Her gün 1-2 saatlik bir zaman dilimini takviminize koyun ve böylece işleriniz
 > When management is the only path to higher compensation, the quality of management suffers, and the lives of the people who work for these reluctant managers become miserable.
 
 [1]: /img/radical-candor/radical_candor.jpg
-[2]: /img/radical-candor/radical_candor_cycle.jpg
+[2]: /img/radical-candor/radical_candor_cycle.png
+[3]: /img/radical-candor/radical_candor_chart.png
