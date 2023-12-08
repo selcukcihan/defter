@@ -52,7 +52,6 @@ enableEmoji = true
     # customCSS = "css/custom.css"
     # Custom CSS added to dark mode style.
     customDarkCSS = "css/custom-dark.css"
-    customCSS = "css/custom.css"
 
     # Custom list of Javascript files to load. Just like custom CSS you can place js files under
     # `static/js` folder and specify path here as `js/script-name.js`.
