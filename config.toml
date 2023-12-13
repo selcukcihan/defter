@@ -12,8 +12,6 @@ pygmentscodefencesguesssyntax = true
 
 # Your Google analytics code.
 googleAnalytics = "UA-68700480-6"
-# Your Disqus sortname.
-disqusShortname = "blog-selcukcihan-com"
 
 enableRobotsTXT = true
 
@@ -29,9 +27,6 @@ enableEmoji = true
 
     # Content types which are included in home page recent posts list.
     mainSections = ["bulut-bilisim", "diger", "metodoloji", "kitap", "web-development", "devops"]
-
-    # Content types which are excludes Disqus comments.
-    disableDisqusTypes = ["page"]
 
     disableDateTypes = ["page"]
 

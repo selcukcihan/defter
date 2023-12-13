@@ -41,10 +41,6 @@
 		{{- else if and (isset .Params "disqus") (eq .Params.disqus true) -}}
 		{{- $.Scratch.Set "isDisqus" true -}}
 		{{- end -}}
-
-		{{- if eq ($.Scratch.Get "isDisqus") true -}}
-		{{- partial "disqus.html" . -}}
-		{{- end -}}
 	</div>
 	{{ partial "footer.html" . }}
 </body>
