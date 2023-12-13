@@ -1,5 +1,5 @@
 body {
-    background-color: #263238;
+    background-color: #20262E;
 }
 
 .header nav,
@@ -28,5 +28,13 @@ a.footnote-return > sup:before {
 
 blockquote {
     font-weight: lighter;
-    font-size: 1rem;
+    font-size: 0.9rem;
+    font-style: normal;
+    border: 1px solid #90a4ae;
+    border-radius: 10px;
+    font-family: "arimo", sans-serif;
+}
+
+body {
+    font-family: "afacad", sans-serif;
 }
