@@ -41,9 +41,7 @@ Web sayfalarını, kafamızda belirli bir hedef kitlesi olsa bile, herkes için 
 Bunu yaparken, insanlarla ilgili şu gerçekleri hatırlamak gerek:
 
 1. Sayfaları baştan sona okumuyoruz, hızlıca tarayıp geçiyoruz. Bu yüzden, kullanıcıların sayfada kolayca göz gezdirip, yönlerini bulabilmelerini sağlamak mühim.
-
 > FACT OF LIFE #1: We don’t read pages. We scan them.
-
 2. Bir işi yaparken veya karar verirken mükemmelliği aramıyoruz, idare edecek bir yol bulduğumuzda hemen peşine düşüyoruz.
 
 > FACT OF LIFE #2: We don’t make optimal choices. We satisfice.
