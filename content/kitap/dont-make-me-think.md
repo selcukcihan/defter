@@ -1,6 +1,6 @@
 ---
 title: "Don't Make Me Think"
-tags: ["UX", "UI", "design", "tasarım", "usability", "web"]
+tags: ["UX", "UI", "design", "tasarım", "usability", "web", "kitap"]
 date: 2023-12-13T07:41:29+03:00
 draft: false
 images: ["/img/dont-make-me-think/dont_make_me_think.jpg"]
@@ -64,28 +64,22 @@ Acil durumlarda, itfaiyeciler ellerindeki tüm opsiyonları değerlendirmek yeri
 ## Tüyolar
 
 1. Sayfalarınızda görsel hiyerarşiyi sonuna kadar kullanın; farklı "heading"ler, boşluklar ve font varyasyonları ile kullanıcının sayfayı kolay tarayabilmesini sağlayın.
-
 > A good visual hierarchy saves us work by preprocessing the page for us, organizing and prioritizing its contents in a way that we can grasp almost instantly.
 > Use plenty of headings. Well-written, thoughtful headings interspersed in the text act as an informal outline or table of contents for a page.
 
 2. Kullanıcılarınızın fazla vakti ve dikkati yok. Dikkat çekmesi gereken şeyleri sırf şıklık veya estetik kaygılarla saklamayın, keşfedilmesini zorlaştırmayın.
-
 > Too-subtle visual cues are actually a very common problem. Designers love subtle cues, because subtlety is one of the traits of sophisticated design. But Web users are generally in such a hurry that they routinely miss subtle cues.
 
 3. Mutlaka kullanılabilirlik testi yapın, erken başlayın, sık sık yapın. Kendi hislerinize, deneyimlerinize ve tercihlerinize güvenmek yerine, kullanıcılardan geribildirim alın ki ürününüz saçma sapan yerlere doğru evrilmesin. Sizin kafanızdaki kullanıcı profili ile gerçek hayat arasında çok büyük farklar olduğunu unutmayın.
-
 > Testing one user early in the project is better than testing 50 near the end. 
 
 4. Bilgi saklamayın: Destek hattı, ücretlendirme, adres, yasal bilgiler vs. açıkça belirtilsin ve gerekli bağlamlarda kolayca bulunabilir olsun.
-
 > Things that diminish goodwill Here are a few of the things that tend to make users feel like the people publishing a site don’t have their best interests at heart: Hiding information that I want. The most common things to hide are customer support phone numbers, shipping rates, and prices.
 
 5. Kullanıcıyı, sizin istediğiniz gibi davranmadığı için cezalandırmayın. Mesela, telefon numarası girerken mutlaka belirli bir formatta girmek zorunda kalmasın, sürtünme katsayısını azaltın, copy/paste çalışsın.
-
 > Punishing me for not doing things your way. I should never have to think about formatting data: whether or not to put dashes in my Social Security number, spaces in my credit card number, or parentheses in my phone number. Many sites perversely insist on no spaces in credit card numbers, when the spaces actually make it much easier to type the number correctly. Don’t make me jump through hoops just because you don’t want to write a little bit of code.
 
 6. Kullanıcıdan lüzumsuz bilgi istemeyin: Herkesin acelesi var, kimse kimseye güvenmiyor. Bu şartlarda, ekstra bilgi istemek çok mantıklı değil.
-
 > Asking me for information you don’t really need. Most users are very skeptical of requests for personal information and find it annoying if a site asks for more than what’s needed for the task at hand.
 
 [1]: /img/dont-make-me-think/dont_make_me_think.jpg
