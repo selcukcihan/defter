@@ -84,6 +84,7 @@ Ekipleri asıl yapmaları gereken işten uzaklaştırmak çok maliyetlidir.
 Tüm sistemler kolayca ulaşıp bakabileceğiniz metrikler üretsin.
 Bununla da kalmayın, bu metrikler üzerinden çeşitli kriterlerle tetiklenen alarmlar kurun.
 Örnek:
+
 - Siparişlerle ilgilenen web servis son 10 dakika içinde birden fazla 500 internal server hatâsı verirse, ilgili ekibe bildirim gitsin.
 - Son bir saat içinde hiç yeni müşteri oluşmadıysa, CRM ekibine bildirim gitsin.
 
@@ -92,6 +93,7 @@ Bununla da kalmayın, bu metrikler üzerinden çeşitli kriterlerle tetiklenen a
 ### İşlerin bitme kriterini keskin hatlarla belirleyin
 
 Bir değişiklik veya yeni özellik geliştirilmesi işine "bitti" diyebilmek için şu kriterler sağlanmalı:
+
 - İlgili geliştirmenin prod ortamına taşınmış olması
 - Aktif olarak kullanıldığının ve tasarlandığı işi yaptığının görülmesi, yani üzerinden gerçek trafik geçmesi (test değil) ve beklenen neticeyi oluşturması
 - Operasyonel olarak büyük bir ek yük veya planda olmayan ek iş çıkarmaması (mesela yeni özellik veritabanını çok yorup ara sıra patlamasına yol açıyorsa, bu işe "bitmiş" dememeliyiz)
