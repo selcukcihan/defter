@@ -10,8 +10,9 @@ pygmentsstyle = "vs"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
-# Your Google analytics code.
-googleAnalytics = "UA-68700480-6"
+[services]
+  [services.googleAnalytics]
+    ID = 'G-X2S6YC908K'
 
 enableRobotsTXT = true
 
