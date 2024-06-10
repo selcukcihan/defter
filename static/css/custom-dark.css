@@ -26,6 +26,10 @@ a.footnote-return > sup:before {
     font-size: 75%;
 }
 
+a {
+    text-decoration: underline;
+}
+
 blockquote {
     font-weight: lighter;
     font-size: 0.9rem;
