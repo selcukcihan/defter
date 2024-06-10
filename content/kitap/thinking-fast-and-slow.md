@@ -18,6 +18,7 @@ Daniel Kahneman insan beynini iki sistem üzerinden açıklamaya çalışıyor.
 * Sistem 2: Yavaş düşünür, hesap/kitap yapar, karar verirken karşılaştırmalar yapar, yorucudur ama isabet oranı daha yüksektir.
 
 Beyin tembelliğe yatkın olduğundan, sistem 2'yi mümkünse devreye sokmak istemez.
+Sistem 2 devreye girdiğinde bile, tembelliğimizden ötürü sistem 1'in yönlendirmesine mâruz kalabilir.
 
 Kitap, sistem 1'in zâfiyetleri ve bunlardan doğan çeşitli yanılgıları ayrı bölümlerde incelemiş.
 Ben de aklımda kaldığı kadarıyla bunları paylaşmak istedim.
@@ -50,10 +51,11 @@ Apple hissesi alacağınız zaman, beyniniz bu kararı asıl sorulması gereken 
 Bir soruya vereceğimiz cevap, o sorunun nasıl sorulduğuna göre değişir. Kitaptan bir örnek, doktor sizi muayene ettikten sonra olmanız gereken ameliyatla ilgili şöyle diyor: 
 
 a) "Ameliyattan sonra bir ay içinde ölme ihtimaliniz %10."
+
 b) "Ameliyattan sonra bir aydan uzun bir süre hayatta kalma ihtimaliniz %90."
 
-Burada b) alternatifi diğerine göre çok daha pozitif hisler uyandırıyor, oysa ikisi de aynı şeyi söylüyor, oranlar aynı çünkü.
-İnsan a) şıkkını duyduğunda, ölüm gözünün önüne daha net geldiği için çok daha negatif bir etkiye maruz kalıyor.
+Burada "b" alternatifi diğerine göre çok daha pozitif hisler uyandırıyor, oysa ikisi de aynı şeyi söylüyor, oranlar aynı çünkü.
+İnsan "a" şıkkını duyduğunda, ölüm gözünün önüne daha net geldiği için çok daha negatif bir etkiye maruz kalıyor.
 
 ## Olasılıkların Göz Ardı Edilmesi (Base Rate Neglect)
 
@@ -127,5 +129,13 @@ Bu örnekte, ikinci gruptakiler son 30 saniye nispeten daha az soğuk bir suya m
 Deneyimlerimizle ilgili bir diğer tespit de, insanlar hatırlarken deneyimlerinin süresini kaale almıyorlar.
 Mesela, 1 sene boyunca çektiğiniz acı da, 5 sene boyunca çektiğiniz acı da daha sonra geriye dönüp baktığınızda sizde aynı etkiyi gösteriyor.
 Geçen zamanın uzunluğunu hatırlamıyoruz.
+
+## Sonuç
+
+Kitabı okumanızı tavsiye ederim, Türkçe çevirisinden de okuyabilirsiniz ama ne kadar kaliteli bir çeviridir bilmiyorum.
+Burada bahsetmediğim başka pek çok konuya da değiniyor kitap, oldukça zengin bir içeriği var.
+Ben aklımda en çok yer edenleri paylaştım.
+Zihnimizin düştüğü bu yanılgılardan tamamen kurtulmak mümkün gözükmese de, en azından varlıklarından haberdar olmak da bir şeydir.
+Belki yarın vereceğimiz kritik bir kararda, en azından kararı hangi sistemin verdiğini aklımızın bir köşesinde tutarız ki beklentilerimizi de ona göre ayarlayalım.
 
 [1]: /img/thinking-fast-and-slow/thinking_fast_and_slow.jpg
