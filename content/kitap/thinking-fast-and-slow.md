@@ -4,7 +4,7 @@ tags: ["beyin", "psikoloji", "yanılgılar", "düşünce", "düşünmek", "kitap
 date: 2024-06-09T07:41:29+03:00
 draft: false
 images: ["/img/thinking-fast-and-slow/thinking_fast_and_slow.jpg"]
-description: "Daniel Kahneman insan beynini iki sistem üzerinden açıklamaya çalışıyor ve hızlı çalışan birinci sistemin zaaflarını açıklıyor. Kendinizle ilgili şaşıracağınız çok ilginç tespitler bulacaksınız."
+description: "Daniel Kahneman insan beynini iki sistem üzerinden açıklamaya çalışıyor ve hızlı çalışan birinci sistemin zaaflarını anlatıyor. Kendinizle ilgili şaşıracağınız çok ilginç tespitler bulacaksınız."
 ---
 
 Ders kitabı gibi bir kitap, okurken zorluyor çünkü anlamak için bir hayli çaba istiyor ve çoğunlukla da beyin gıdıklayan konulara değiniyor.
