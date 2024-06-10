@@ -117,7 +117,5 @@ name = "Linkedin"
 icon = "linkedin"
 url = "https://linkedin.com/in/selcukcihan"
 
-
-# Enable tags.
 [taxonomies]
-    tag = "tags"
+  tag = 'tags'
