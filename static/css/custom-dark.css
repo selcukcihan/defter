@@ -37,8 +37,43 @@ blockquote {
     border: 1px solid #90a4ae;
     border-radius: 10px;
     font-family: "arimo", sans-serif;
+    border-color: #fff;
 }
 
 body {
     font-family: "afacad", sans-serif;
+    color: #fff;
+}
+
+h1,h2,h3,h4,h5,h6 {
+	color: #fff;
+}
+
+.site-description a,
+.site-description a:hover {
+	color: #fff;
+	text-decoration: underline;
+}
+
+a:hover {
+	opacity: 0.8;
+}
+
+.post-tags .tags a {
+    border: 1px solid #fff;
+	color: #fff;
+}
+
+.site-title a {
+	color: #fff;
+	text-decoration: none !important;
+}
+
+.header nav,
+.footer {
+	border-color: #333;
+}
+
+.highlight {
+	background-color: #333;
 }
