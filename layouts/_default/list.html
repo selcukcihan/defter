@@ -17,7 +17,17 @@
             {{- if (in (.Site.Params.excludedTypes | default (slice "page")) .Type) -}}
             {{- else -}}
             <li class="post">
-                <a href="{{ .RelPermalink }}">{{.Title}}</a> <span class="meta">{{ dateFormat "02/01/2006" .Date }}{{ if .Draft }} <span class="draft-label">DRAFT</span> {{ end }}</span>
+                <div class="meta">{{ dateFormat "02/01/2006" .Date }}{{ if .Draft }} <span class="draft-label">DRAFT</span> {{ end }}</div>
+                <a class="title" href="{{ .RelPermalink }}">{{.Title}}</a> &mdash;
+                <span class="description">
+                    {{ if isset .Params "description" }}
+                    {{ .Description }}
+                    {{ else if gt (len .RawContent) 120 }}
+                    {{ slicestr .RawContent 0 120 }}...
+                    {{ else }}
+                    {{ .RawContent }}
+                    {{ end }}
+                </span>
             </li>
             {{- end -}}
             {{- end -}}
