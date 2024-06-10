@@ -3,6 +3,7 @@ title: "Refactoring UI"
 tags: ["UI", "design", "UX", "web design", "book"]
 date: 2024-05-06T07:41:29+03:00
 draft: false
+description: These are my notes from the excellent web design book Refactoring UI.
 ---
 
 These are my notes from https://www.refactoringui.com
