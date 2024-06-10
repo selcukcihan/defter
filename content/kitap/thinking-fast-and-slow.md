@@ -7,7 +7,8 @@ images: ["/img/thinking-fast-and-slow/thinking_fast_and_slow.jpg"]
 description: "Daniel Kahneman insan beynini iki sistem üzerinden açıklamaya çalışıyor ve hızlı çalışan birinci sistemin zaaflarını anlatıyor. Kendinizle ilgili şaşıracağınız çok ilginç tespitler bulacaksınız."
 ---
 
-Ders kitabı gibi bir kitap, okurken zorluyor çünkü anlamak için bir hayli çaba istiyor ve çoğunlukla da beyin gıdıklayan konulara değiniyor.
+Kendiniz hakkında çok şey öğrenebileceğiniz bir kitap bu.
+Biraz ders kitabı gibi, okurken zorluyor çünkü anlamak için bir hayli çaba istiyor ve çoğunlukla da beyin gıdıklayan konulara değiniyor.
 Kitabın detaylarına ve yorumlarına [goodreads](https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow) üzerinden bakabilirsiniz.
 
 Kitabın yazarı Daniel Kahneman, nobel ödülü kazanmış yahudi bir bilim adamı ve geçenlerde (Mart 2024) vefat etti.
