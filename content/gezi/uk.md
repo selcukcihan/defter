@@ -140,22 +140,47 @@ Suyumuzu musluktan içtik ve elhamdulillah bir problem yaşamadık.
 
 ### 2. Gün
 
-Crouch End falan gezdik... Devam edecek...
+Sabah eşimin hazırladığı enfes kahvaltıdan sonra çantalarımızı hazırlayıp Londra'nın kuzeyine, eski kaldığımız mahalleye doğru yola çıktık.
+Trene bineceğimiz Moorgate istasyonuna doğru yürürken yol üstündeki Vodafone bayisinden bir sim kart aldım.
+Bizim operatörler tarifemizi yurtdışında kullanmak için günlük 200 lira civarı bir fatura çıkarıyor, oranın sim kartından almak daha ucuza geldi.
+30 pounda bir ay limitsiz internete sahip bir vodafone hat aldım.
 
+[![Ally Pally](/img/uk/02/02-ally-pally-thumb.jpg)](/img/uk/02/02-ally-pally.jpeg)
 
-[1]: /img/uk/01-gece.jpeg
-[2]: /img/uk/01-gece-thumb.jpg
-[3]: /img/uk/01-liverpool-street-station.jpeg
-[4]: /img/uk/01-liverpool-street-station-thumb.jpg
-[5]: /img/uk/01-market-raf-2.jpeg
-[6]: /img/uk/01-market-raf-2-thumb.jpg
-[7]: /img/uk/01-market-raf.jpeg
-[8]: /img/uk/01-market-raf-thumb.jpg
-[9]: /img/uk/01-market.jpeg
-[10]: /img/uk/01-market-thumb.jpg
-[11]: /img/uk/01-night-street.jpeg
-[12]: /img/uk/01-night-street-thumb.jpg
-[13]: /img/uk/01-tea-cakes.jpeg
-[14]: /img/uk/01-tea-cakes-thumb.jpg
-[15]: /img/uk/01-sainsbury-fis.jpeg
-[16]: /img/uk/01-sainsbury-fis-thumb.jpg
+Moorgate istasyonundan great northern trenlerinden birine bindik ve yaklaşık 25 dakika sonra Alexandra Palace istasyonunda indik.
+Alexandra Palace yayıncılık için tarihi öneme sahip bir yer, BBC ilk yayınını buradan yapmış.
+Dümdüz bir şehir olan Londra'nın ender tepelerinden birine kurulmuş, tepe dediğime bakmayın hafif bir yükselti sadece.
+Arkasında yer alan gölet ve parkta biraz dinlendikten sonra mahallemize doğru yürüyerek geçtik.
+
+Evimizin önüne geldiğimizde evin boş olduğunu gördük, bir sonraki kiracısını veya sahibini bekliyor, biraz hüzünlendik tabi :)
+W7 hattına binerek Londra'nın merkezine, kaldığımız yere döndük.
+
+[![Metro](/img/uk/02/02-tube-thumb.jpg)](/img/uk/02/02-tube.jpeg)
+
+Biraz dinlendikten sonra akşam üzeri St James's Park'a gitmeye karar verdik.
+Bu park Buckingham Sarayı'na, Hyde Park'a, Green Park'a ve Westminster Katedrali'ne komşu sayılabilecek merkezi bir noktada.
+Parkta dolaşırken, İstanbul'da bir türlü buluşup görüşemediğimiz aile dostlarımızla karşılaştık.
+Çok güzel bir tesadüf oldu ve daha sonra bir iki kere daha beraber vakit geçirme şansı bulduk Londra'da.
+
+[![St James's Park](/img/uk/02/02-stjames-2-thumb.jpg)](/img/uk/02/02-stjames-2.jpeg)
+
+---
+[![Parrot](/img/uk/02/02-parrot-thumb.jpg)](/img/uk/02/02-parrot.jpeg)
+
+St James's Park'ın bir ucundan diğerine yürürken bando sesleri duyduk, askeri bandonun konseri varmış (Horse Guards Parade).
+Ücretsiz biletler vardı ama etkinlik çoktan başlamıştı ve tüm gruba (karşılaştığımız arkadaşlarımızla birlikte kalabalık olduk) yetecek kadar bilet yoktu.
+Biz de dışarıdan biraz izledik ve oradaki güvenlik görevlisinden biraz bilgi aldık etkinlikle ilgili.
+Saat 8'de havai fişek gösterisi olacağını söylediler, havanın 9'da karardığını düşünürsek bana biraz garip geldi.
+Gün aydınlığında kıytırık bir havai fişek gösterisi izledik.
+
+[![Bando](/img/uk/02/02-stjames-thumb.jpg)](/img/uk/02/02-stjames.jpeg)
+
+---
+
+[![Westminster](/img/uk/02/02-westminster-thumb.jpg)](/img/uk/02/02-westminster.jpeg)
+
+Şehrin çeşitli noktalarında, özellikle parklarda, ücretli tuvaletler bulmak mümkün.
+Çok sık olmasa da, ara ara su içebileceğiniz çeşmeler de mevcut.
+
+### 3. Gün
+
