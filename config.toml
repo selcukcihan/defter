@@ -22,7 +22,7 @@ enableEmoji = true
 
 [params]
     # Blog subtitle which appears below blog title. Supports markdown.
-    subtitle = "Çözdüğüm problemleri ve bu yolda öğrendiklerimi yazıyorum. - *\"Söz uçar, yazı kalır\"*"
+    subtitle = "*\"Söz uçar, yazı kalır.\"*"
 
     description = "Kişisel weblog'um. Denemelerim, tecrübelerim ve öğrendiklerimi paylaşıyorum."
 
