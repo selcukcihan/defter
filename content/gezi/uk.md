@@ -12,6 +12,9 @@ Sonunda cesaretimi topladım ve vize işlemlerini başlattım.
 
 ## TLDR;
 
+* Londra => Bristol (+Bath & Castle Comb) => York => Edinburgh şeklinde bir rota çizdik, toplam 21 gün
+* Araç kiralamadık, trafiği çok cins, insanı deli eden bir yavaşlık var trafikte
+* Daha çok metro/tren kullandık
 * Havası dandik
 * Marketlerde satılan gıda ürünleri çok kaliteli
 * Giyim kuşam ucuz
@@ -48,6 +51,13 @@ Havalar biz gelmeden önce çok kötüymüş, biz geldiğimizde kapalı bir hava
 Fakat genel olarak Temmuz ayı iyidir, hava 20 derecelerde gezer, bizim için çok sıcak olmasa da yerel halk için bunaltan bir sıcak anlamına geliyor :)
 Yanımıza kalın kıyafetler de almıştık, ama İskoçya'ya geçene kadar kullanmamıza gerek kalmadı.
 Tişört, şort, terlik şeklinde takıldık.
+
+Gitmeden önce ve gittiğimizde orada buluştuğumuz arkadaşlarımız bizi hep kapkaç konusunda uyardılar.
+Çevreden duyduğumuz kadarıyla cep telefonu ve cüzdanları motosiklet veya bisikletli hırsızlar bir anda alıp kaçabiliyorlarmış.
+O kadar uyardılar ki bizi, biz de biraz tedirgin olduk.
+Tedbiri elden bırakmayın, etrafınızın farkında olun.
+Bir de tenha yerlere akşam karanlığında gitmediğiniz sürece bir problem yaşamazsınız.
+Londra dışındaki şehirlerde böyle bir durum yok, kuzeye çıktıkça suç oranı azalıyor anladığım kadarıyla.
 
 ## Güzergah
 
