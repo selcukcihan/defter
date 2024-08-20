@@ -1,6 +1,6 @@
 baseURL = "https://blog.selcukcihan.com/"
 languageCode = "tr-TR"
-title = "Yazılım ile ilgili notlar"
+title = "Yazılım ile ilgili notlarım ve daha fazlası"
 theme = "ezhil"
 DefaultContentLanguage = "tr"
 copyright = "© Selçuk Cihan"
@@ -27,7 +27,7 @@ enableEmoji = true
     description = "Kişisel weblog'um. Denemelerim, tecrübelerim ve öğrendiklerimi paylaşıyorum."
 
     # Content types which are included in home page recent posts list.
-    mainSections = ["bulut-bilisim", "diger", "metodoloji", "kitap", "web-development", "devops"]
+    mainSections = ["bulut-bilisim", "diger", "metodoloji", "kitap", "web-development", "devops", "gezi"]
 
     disableDateTypes = ["page"]
 
@@ -61,13 +61,13 @@ url = "/"
 weight = 1
 
 [[menu.main]]
-name = "Bulut bilişim"
-url = "/bulut-bilisim"
+name = "Bulut"
+url = "/bulut"
 weight = 2
 
 [[menu.main]]
-name = "Web geliştirme"
-url = "/web-development"
+name = "Web"
+url = "/web"
 weight = 3
 
 [[menu.main]]
@@ -88,6 +88,11 @@ weight = 6
 [[menu.main]]
 name = "Diğer"
 url = "/diger"
+weight = 7
+
+[[menu.main]]
+name = "Gezi Notlarım"
+url = "/gezi"
 weight = 7
 
 [[menu.main]]
