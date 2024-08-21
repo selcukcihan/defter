@@ -104,7 +104,7 @@ Taksiye tonlarca para vermeye hiç gerek yok, havalimanından trenle ulaşım ra
 Valizlerimizle birlikte kolayca trene bindik ve 50 dakika sonra Liverpool Street istasyonunda indik.
 Yanlış hatırlamıyorsam kişi başı 15 pound gibi bir ücret ödedik tren için.
 
-[![Liverpool Street Station](/img/uk/01-liverpool-street-station-thumb.jpg)](/img/uk/01-liverpool-street-station.jpeg)
+[![Liverpool Street Station](/img/uk/01/01-liverpool-street-station-thumb.jpg)](/img/uk/01/01-liverpool-street-station.jpeg)
 
 Tren istasyonundan kalacağımız yere yaklaşık 20 dakikada yürünebiliyordu, Londra da dümdüz bir şehir ve hava da güzel olunca yürüyelim dedik.
 Zaten Londra'yı özlemiştik, sokaklarda dolaşmak için can atıyorduk.
@@ -118,25 +118,25 @@ Kahve fiyatları da 2.5-3.5 arası değişiyor gördüğüm kadarıyla.
 
 Hava kararırken yakın civarda dolaşmaya başladık.
 
-[![Sokaklar gece](/img/uk/01-night-street-thumb.jpg)](/img/uk/01-night-street.jpeg)
+[![Sokaklar gece](/img/uk/01/01-night-street-thumb.jpg)](/img/uk/01/01-night-street.jpeg)
 
 
 Biraz market alışverişi yaptık, benim favorim olan "tea cake"lerden de aldım elbette.
 Çayın yanında çok iyi gidiyor.
 
-[![Abur cubur](/img/uk/01-tea-cakes-thumb.jpg)](/img/uk/01-tea-cakes.jpeg)
+[![Abur cubur](/img/uk/01/01-tea-cakes-thumb.jpg)](/img/uk/01/01-tea-cakes.jpeg)
 
 ---
-[![Market reyon 1](/img/uk/01-market-thumb.jpg)](/img/uk/01-market.jpeg)
+[![Market reyon 1](/img/uk/01/01-market-thumb.jpg)](/img/uk/01/01-market.jpeg)
 
 ---
-[![Market reyon 2](/img/uk/01-market-raf-thumb.jpg)](/img/uk/01-market-raf.jpeg)
+[![Market reyon 2](/img/uk/01/01-market-raf-thumb.jpg)](/img/uk/01/01-market-raf.jpeg)
 
 ---
-[![Market reyon 3](/img/uk/01-market-raf-2-thumb.jpg)](/img/uk/01-market-raf-2.jpeg)
+[![Market reyon 3](/img/uk/01/01-market-raf-2-thumb.jpg)](/img/uk/01/01-market-raf-2.jpeg)
 
 ---
-[![Market fiş](/img/uk/01-sainsbury-fis-thumb.jpg)](/img/uk/01-sainsbury-fis.jpeg)
+[![Market fiş](/img/uk/01/01-sainsbury-fis-thumb.jpg)](/img/uk/01/01-sainsbury-fis.jpeg)
 
 Marketlerde satılan "double cream" aynı bizim köydeki kaymak gibi, muhteşem.
 Ekmeği kızartıp kaymakla yemek çok güzel oluyor.
@@ -194,3 +194,63 @@ Gün aydınlığında kıytırık bir havai fişek gösterisi izledik.
 
 ### 3. Gün
 
+Hava yine çok güzeldi.
+Bu kez Hyde Park taraflarına gitmeye karar verdik.
+Metroyla Hyde Park'ın batısında yer alan Kensington Gardens'a geçtik.
+Oradaki Diana Memorial çocuk oyun alanında biraz takıldık.
+Parkların içinde çocuklara özel bölümler var.
+Sokaklarda başıboş kedi/köpek pek olmadığından, parklardaki kum havuzları falan temiz.
+Bir de meşhur parklardaki oyuncaklar oldukça bakımlı oluyor.
+Çocuk oyun alanları genelde çitlerle çevrili oluyor ve giriş çıkışlar belli yerlerden yapılıyor.
+Bu sayede aklınız çocukta kalmamış oluyor, kaybolur mu veya çıkıp gider mi diye endişelenmiyor insan.
+
+Kensignton bahçelerinden yürüyerek Hyde Park'a doğru geçtik.
+15-20 dakika yürümek gerekebiliyor, oldukça büyük bir yer.
+Yorulduğumuzda dondurma arabalarından birer dondurma alıp bir ağacın altında dinlendik.
+
+Hyde Park'ın içinde bir gölet var (sanırım gölet, kanal değil).
+Gölette pedallı veya elektrikli botlarla turlayabiliyorsunuz.
+Biz pedallı kiraladık, bir saatlik ücreti kişi başı 12 pound civarı, çocuklar için de bunun yarısı fiyat.
+Yarım saat de kiralanabiliyor ama gölet büyükçe, bir saatte ancak turlayabildik etrafını.
+Oldukça zevkliydi, tavsiye ederim.
+
+[![Hyde Park 1](/img/uk/03/03-hyde-thumb.jpg)](/img/uk/03/03-hyde.jpeg)
+
+---
+
+[![Hyde Park 2](/img/uk/03/03-hyde2-thumb.jpg)](/img/uk/03/03-hyde2.jpeg)
+
+Akşam Pencab mutfağından yemekler sunan Tayyabs isimli restoranda yemek yedik.
+Burası helal bir restoran.
+Londra'nın doğusunda kalıyor, Doğu Londra Cami'sine çok yakın.
+Yiyeceklerin hepsi aşırı baharatlı ve çok acıydı.
+Lezzet olarak güzel.
+Meyveli ayran gibi bir içecekleri vardı, çok beğendim, biraz milkshake'i andırıyor.
+
+Restorandan çıkınca merkeze doğru yürümeye başladık, Shoreditch üzerinden bir rota takip ettik.
+Spitalfields'dan geçtik; eski iş yerimde öğlen yemeğine buraya gelirdik.
+Market dedikleri, yemek yapan ufak standların bulunduğu bir pazar yeri.
+Yol üstündeki Brick Lane Cami'sinde akşam namazını kıldık.
+Eve vardığımızda epey yorulmuştuk, hareketli bir gündü.
+
+[![Brick Lane Camii](/img/uk/03/03-mosque-thumb.jpg)](/img/uk/03/03-mosque.jpeg)
+
+---
+
+[![Gece 1](/img/uk/03/03-night-thumb.jpg)](/img/uk/03/03-night.jpeg)
+
+---
+
+[![Gece 2](/img/uk/03/03-night2-thumb.jpg)](/img/uk/03/03-night2.jpeg)
+
+---
+
+[![Gece 3](/img/uk/03/03-night3-thumb.jpg)](/img/uk/03/03-night3.jpeg)
+
+---
+
+[![Gece 4](/img/uk/03/03-night4-thumb.jpg)](/img/uk/03/03-night4.jpeg)
+
+### 4. Gün
+
+...
