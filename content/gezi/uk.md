@@ -24,9 +24,9 @@ Sonunda cesaretimi topladım ve vize işlemlerini başlattım.
 
 ## TLDR;
 
-* Araç kiralamadık, trafiği çok cins, insanı deli eden bir yavaşlık var trafikte
+* Araç kiralamadık, trafiği çok garip, insanı deli eden bir yavaşlık var trafikte
 * Daha çok metro/tren kullandık
-* Havası dandik
+* Havası kötü, yazın birkaç hafta dışında hep kapalı havalar
 * Marketlerde satılan gıda ürünleri çok kaliteli
 * Giyim kuşam ucuz
 * Konaklama çok pahalı
@@ -37,7 +37,7 @@ Sonunda cesaretimi topladım ve vize işlemlerini başlattım.
 * Parkları, bahçeleri bol (her mahalleye en az koca bir park düşüyordur) ve şehirleri çok daha insancıl
 * Yaşam standartları ortalaması bizden daha iyi, veya şöyle düşünün, aynı işi yaparak daha iyi şartlarda yaşayabiliyorlar
 * Kendinize sınırsız internetli bir hat alın
-* Havası dandik ötesi
+* Havası kötü, çok kötü
 
 ## Vize
 
@@ -354,7 +354,7 @@ Akşam namazına arkadaşım Cambridge'de yeni yapılan bir camiye götürdü bi
 Dönüş için akşam 9:30'daki trene yetişmeye çalıştık, boşuna acele etmişiz çünkü tren iptal olmuş ve bir sonraki trene binmek zorunda kaldık.
 Trenler sürekli iptal oluyor veya rötar yapıyor, siftahımızı yapmış olduk.
 Londra'ya döndüğümüzde saat 11 civarıydı, kendimizi eve attığımızda da 12'ye geliyordu.
-Epey yorulduk ama arkadaşları görmek çok iyi geldi.
+Epey yorulduk ama arkadaşlarımızı görmek çok iyi geldi.
 
 ### 6. Gün
 
@@ -365,7 +365,7 @@ Onlarla da tekrar görüşmek ve Greenwich'i dolaşmak için iyi bir fırsat old
 
 Greenwich'te başlangıç meridyeni haricinde diğer ilgi çekici yerler şunlar:
 
-* Cutty Sark: çocuklar sevecektir, eski bir gemiyi müzeye çevirmişler.
+* Cutty Sark: Çocuklar sevecektir, eski bir gemiyi müzeye çevirmişler.
 * Greenwich Market: Değişik lezzetleri deneyebileceğiniz küçük bir pazar yeri.
 * National Maritime Museum: Denizcilik müzesi, ücretsiz girebileceğiniz güzel bir müze.
 
