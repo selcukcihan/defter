@@ -41,7 +41,7 @@ Sonunda cesaretimi topladım ve vize işlemlerini başlattım.
 ## Vize
 
 Vize süreci gözümde büyüttüğüm kadar zor değilmiş.
-Bazı belgeleri Türkçe olarak vermeme rağmen vizeyi alabilidik.
+Bazı belgeleri Türkçe olarak vermeme rağmen vizeyi alabildik.
 
 Uçak biletlerimizi vize çıktıktan sonra aldık, yani önceden bilet almanız gerekmiyor.
 Fakat kalacağınız adresi göstermeniz gerekiyor, dolayısıyla yalandan da olsa bir rezervasyon gerekli.
@@ -219,7 +219,7 @@ Bir de meşhur parklardaki oyuncaklar oldukça bakımlı oluyor.
 Çocuk oyun alanları genelde çitlerle çevrili oluyor ve giriş çıkışlar belli yerlerden yapılıyor.
 Bu sayede aklınız çocukta kalmamış oluyor, kaybolur mu veya çıkıp gider mi diye endişelenmiyor insan.
 
-Kensignton bahçelerinden yürüyerek Hyde Park'a doğru geçtik.
+Kensington bahçelerinden yürüyerek Hyde Park'a doğru geçtik.
 15-20 dakika yürümek gerekebiliyor, oldukça büyük bir yer.
 Yorulduğumuzda dondurma arabalarından birer dondurma alıp bir ağacın altında dinlendik.
 
@@ -392,7 +392,7 @@ Bu tepenin manzarası çok güzel.
 
 [![Greenwich Rasathane](/img/uk/06/06-greenwich4-thumb.jpg)](/img/uk/06/06-greenwich4.jpeg)
 
-Akşam hava kararıken nasıl döneceğimizi düşünüyordum ki, ilk günden dikkatimi çeken uber boatların iskelesinin hemen yanında olduğumuzu fark ettim.
+Akşam hava kararırken nasıl döneceğimizi düşünüyordum ki, ilk günden dikkatimi çeken uber boatların iskelesinin hemen yanında olduğumuzu fark ettim.
 Biraz pahalı ama en azından nehirde de bir gezinti gibi olur diyerek uber boata binmeye karar verdik.
 Sanırım kişi başı 12 sterlin gibi bir ücret ödedik.
 Akşam hava kararıyordu, gezintiden pek bir şey anlamadık.
