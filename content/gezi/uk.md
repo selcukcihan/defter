@@ -6,7 +6,7 @@ draft: false
 images: ["/img/uk/01-gece.jpeg"]
 ---
 
-Gezi yazılarımın ilkinde, bu yaz gerçekleştirdiğimiz 3 haftalık birleşik krallık seyahatimizin Londra'da geçen ilk haftasında neler yaptığımızı anlattım.
+Gezi yazılarımın ikincisinde, bu yaz gerçekleştirdiğimiz 3 haftalık birleşik krallık seyahatimizin Londra'da geçen ilk haftasında neler yaptığımızı anlattım.
 
 Sonraki bölümlerde sırayla;
 
