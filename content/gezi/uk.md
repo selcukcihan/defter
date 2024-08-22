@@ -4,6 +4,7 @@ tags: ["birleşik krallık", "gezi", "ingiltere", "uk", "iskoçya", "londra", "b
 date: 2024-08-13T07:41:29+03:00
 draft: false
 images: ["/img/uk/06/06-stpaul.jpeg"]
+description: "Gezi yazılarımın ikincisinde, bu yaz gerçekleştirdiğimiz 3 haftalık birleşik krallık seyahatimizin Londra'da geçen ilk haftasında neler yaptığımızı anlattım."
 ---
 
 Gezi yazılarımın ikincisinde, bu yaz gerçekleştirdiğimiz 3 haftalık birleşik krallık seyahatimizin Londra'da geçen ilk haftasında neler yaptığımızı anlattım.
