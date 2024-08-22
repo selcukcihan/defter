@@ -1,10 +1,21 @@
 ---
-title: "Birleşik Krallık"
+title: "Birleşik Krallık - 1. Bölüm"
 tags: ["birleşik krallık", "gezi", "ingiltere", "uk", "iskoçya", "londra", "bristol", "york", "edinburgh", "vize"]
 date: 2024-08-13T07:41:29+03:00
 draft: false
 images: ["/img/uk/01-gece.jpeg"]
 ---
+
+Gezi yazılarımın ilkinde, bu yaz gerçekleştirdiğimiz 3 haftalık birleşik krallık seyahatimizin Londra'da geçen ilk haftasında neler yaptığımızı anlattım.
+
+Sonraki bölümlerde sırayla;
+
+* Londra'daki ikinci haftamız
+* Bristol ve civarındaki gezimiz
+* York
+* Edinburgh
+
+seyahatlerimizden bahsetmeyi planlıyorum.
 
 Yıllardır İngiltere'ye tekrar gidelim, gezelim diye içimizden geçiriyorduk.
 Fakat vize başvurusuyla uğraşmaya üşendiğim için hep ertelemiştik.
@@ -12,7 +23,6 @@ Sonunda cesaretimi topladım ve vize işlemlerini başlattım.
 
 ## TLDR;
 
-* Londra => Bristol (+Bath & Castle Comb) => York => Edinburgh şeklinde bir rota çizdik, toplam 21 gün
 * Araç kiralamadık, trafiği çok cins, insanı deli eden bir yavaşlık var trafikte
 * Daha çok metro/tren kullandık
 * Havası dandik
@@ -25,6 +35,7 @@ Sonunda cesaretimi topladım ve vize işlemlerini başlattım.
 * Trenlere güven olmuyor, grev veya başka sebeplerden iptal olabiliyor seferler
 * Parkları, bahçeleri bol (her mahalleye en az koca bir park düşüyordur) ve şehirleri çok daha insancıl
 * Yaşam standartları ortalaması bizden daha iyi, veya şöyle düşünün, aynı işi yaparak daha iyi şartlarda yaşayabiliyorlar
+* Kendinize sınırsız internetli bir hat alın
 * Havası dandik ötesi
 
 ## Vize
@@ -58,10 +69,11 @@ O kadar uyardılar ki bizi, biz de biraz tedirgin olduk.
 Tedbiri elden bırakmayın, etrafınızın farkında olun.
 Bir de tenha yerlere akşam karanlığında gitmediğiniz sürece bir problem yaşamazsınız.
 Londra dışındaki şehirlerde böyle bir durum yok, kuzeye çıktıkça suç oranı azalıyor anladığım kadarıyla.
+Biz elhamdulillah gittiğimiz hiçbir yerde olumsuz bir durumla karşılaşmadık.
 
 ## Güzergah
 
-Biz tatile çıkarken Londra'da kalacağımız yer haricinde hiçbir plan yapmadık, bir de İskoçya'dan dönüş biletimiz vardı o kadar.
+Tatile çıkarken Londra'da kalacağımız yer haricinde hiçbir plan yapmadık, bir de İskoçya'dan dönüş biletimiz vardı o kadar.
 Arasını tatili yaparken kafamıza göre doldurduk.
 
 1. Londra'dan başladık
@@ -99,14 +111,14 @@ Oyster almanın pek anlamı yok, hatta daha dezavantajlı bile olabilir çünkü
 Stansted havalimanına öğlen saatlerinde indik.
 Pasaport kontrolünden hızlıca geçtik.
 Dönüş biletimizi sordular, var dedim ama görmek istemedi tamam deyip geçirdi bizi.
-Hemen taksi ayarlamak için oradaki taksi bürosuna geçtim, Londra merkeze 170 pound olan fiyatı duyunca hemen çıktık oradan :)
+Taksi ayarlamak için oradaki taksi bürosuna geçtim, Londra merkeze 170 pound olan fiyatı duyunca hemen çıktık oradan :)
 Taksiye tonlarca para vermeye hiç gerek yok, havalimanından trenle ulaşım rahat.
 Valizlerimizle birlikte kolayca trene bindik ve 50 dakika sonra Liverpool Street istasyonunda indik.
 Yanlış hatırlamıyorsam kişi başı 15 pound gibi bir ücret ödedik tren için.
 
 [![Liverpool Street Station](/img/uk/01/01-liverpool-street-station-thumb.jpg)](/img/uk/01/01-liverpool-street-station.jpeg)
 
-Tren istasyonundan kalacağımız yere yaklaşık 20 dakikada yürünebiliyordu, Londra da dümdüz bir şehir ve hava da güzel olunca yürüyelim dedik.
+Tren istasyonundan kalacağımız yere yaklaşık 20 dakikada yürünebiliyordu, Londra dümdüz bir şehir ve hava da güzel olunca yürüyelim dedik.
 Zaten Londra'yı özlemiştik, sokaklarda dolaşmak için can atıyorduk.
 Valizlerimizle gorgor gürgür geldik kalacağımız yere.
 
@@ -154,6 +166,9 @@ Sabah eşimin hazırladığı enfes kahvaltıdan sonra çantalarımızı hazırl
 Trene bineceğimiz Moorgate istasyonuna doğru yürürken yol üstündeki Vodafone bayisinden bir sim kart aldım.
 Bizim operatörler tarifemizi yurtdışında kullanmak için günlük 200 lira civarı bir fatura çıkarıyor, oranın sim kartından almak daha ucuza geldi.
 30 pounda bir ay limitsiz internete sahip bir vodafone hat aldım.
+Online alışveriş yapmam gerektiğinde şifre SMS'i TR'deki hattıma geldiği için, TR hattımı takıyordum ama datayı kapatıyordum ki faturaya bir şey yansımasın.
+SMS geldikten sonra hemen diğer hatta geçiyordum, bu biraz uğraştırdı ama çok da dert değil.
+E-sim kullanıyorsanız zaten hat değiştirme derdi olmuyor, rahatça yaparsınız bu dediklerimi.
 
 [![Ally Pally](/img/uk/02/02-ally-pally-thumb.jpg)](/img/uk/02/02-ally-pally.jpeg)
 
@@ -220,7 +235,7 @@ Oldukça zevkliydi, tavsiye ederim.
 
 [![Hyde Park 2](/img/uk/03/03-hyde2-thumb.jpg)](/img/uk/03/03-hyde2.jpeg)
 
-Akşam Pencab mutfağından yemekler sunan Tayyabs isimli restoranda yemek yedik.
+Akşam Londra'da yaşayan kuzenimle buluştuk ve bizi Pencab mutfağından yemekler sunan Tayyabs isimli restorana yemeğe götürdü.
 Burası helal bir restoran.
 Londra'nın doğusunda kalıyor, Doğu Londra Cami'sine çok yakın.
 Yiyeceklerin hepsi aşırı baharatlı ve çok acıydı.
@@ -253,4 +268,151 @@ Eve vardığımızda epey yorulmuştuk, hareketli bir gündü.
 
 ### 4. Gün
 
-...
+Gezimizin 4. gününde, yoğun bir program takip etmemize rağmen henüz gitmediğimiz pek çok yer vardı.
+Cuma namazını da düşünerek, Regent's Park'ta takılmaya karar verdik.
+Burası Holland Park'la birlikte en sevdiğim park.
+Namaz saatine kadar biraz gezindik.
+Burası da oldukça büyük bir park.
+Parkın bir köşesinde Londra Merkez Cami'si bulunuyor.
+Diğer bir köşesinde de hayvanat bahçesi var.
+
+[![Regents Park](/img/uk/04/04-regents-thumb.jpg)](/img/uk/04/04-regents.jpeg)
+
+Hayvanat bahçesinin olduğu taraftan Camden Town denilen mahalleye geçiliyor.
+Camden Town değişik bir mahalle, ben pek sevmiyorum, bana hitap etmiyor.
+
+Hayvanat bahçesi güzel, ama çok sıcak bir gündü ve biz perişan olduk gezerken.
+Sıcaklarda gidilecek bir yer değil.
+Zavallı penguenler o sıcaklara nasıl dayandı bilmiyorum.
+
+[![Zoo 1](/img/uk/04/04-zoo1-thumb.jpg)](/img/uk/04/04-zoo1.jpeg)
+
+---
+
+[![Zoo 2](/img/uk/04/04-zoo2-thumb.jpg)](/img/uk/04/04-zoo2.jpeg)
+
+---
+
+[![Zoo 3](/img/uk/04/04-zoo3-thumb.jpg)](/img/uk/04/04-zoo3.jpeg)
+
+---
+
+[![Zoo 4](/img/uk/04/04-zoo4-thumb.jpg)](/img/uk/04/04-zoo4.jpeg)
+
+Akşam Camden Town üzerinden metroyla kaldığımız apartmana döndük.
+Akşamı Thames nehri üzerindeki Milenyum Köprüsü ve civarında geçirdik.
+St Paul Katedrali bize çok yakındı, biraz onun bahçesinde oyalandık.
+Daha sonra nehre doğru yürüyüp yayalara özel yapılan köprüden karşıya geçtik ve biraz da nehrin güney tarafında takıldık.
+Hemen yakındaki Southwark köprüsünden tekrar kuzey tarafa geçip, apartmanımıza döndük.
+
+[![St Paul](/img/uk/04/04-stpaul-thumb.jpg)](/img/uk/04/04-stpaul.jpeg)
+
+---
+
+[![St Paul Gece](/img/uk/04/04-nightpaul-thumb.jpg)](/img/uk/04/04-nightpaul.jpeg)
+
+---
+
+[![The Shard](/img/uk/04/04-shard-thumb.jpg)](/img/uk/04/04-shard.jpeg)
+
+---
+
+[![Gece](/img/uk/04/04-night1-thumb.jpg)](/img/uk/04/04-night1.jpeg)
+
+---
+
+[![Köprü](/img/uk/04/04-bridge-thumb.jpg)](/img/uk/04/04-bridge.jpeg)
+
+### 5. Gün
+
+Cambridge'de çok yakın iki arkadaşım yaşıyor, onları ziyaret etmek için bir günümüzü ayırdık.
+Kings Cross istasyonundan gidiş dönüş (aynı gün) biletlerimizi 3 kişi grup indirimiyle birlikte 42.90 sterline aldık.
+Sabah saat 8:30 gibi kalktı tren ve yaklaşık 50 dakika sürdü yolculuk.
+Vardığımızda arkadaşım bizi karşıladı ve otobüsle yaklaşık 20 dakikalık bir yolculuktan sonra evlerine vardık.
+Mahalleleri çok güzel, evleri de çok hoşumuza gitti.
+Çocuklar da güzel vakit geçirdiler birlikte.
+
+[![Cambridge](/img/uk/05/05-cambr-thumb.jpg)](/img/uk/05/05-cambr.jpeg)
+
+---
+
+[![Cambridge](/img/uk/05/05-cambr2-thumb.jpg)](/img/uk/05/05-cambr2.jpeg)
+
+Öğleden sonra üniversitenin olduğu merkez bölgeye geçtik.
+Aşırı kalabalıktı, hem turist hem de mezuniyet için gelen ailelerden dolayı pek bir yer gezemedik.
+Daha önce Nisan ayında Cambridge'e gitmiştik, o zaman kolejleri ve kanalları keyfini çıkararak keşfetmiştik ama bu sefer turistik açıdan pek güzel bir zamana denk gelmedik.
+
+[![Trinity College](/img/uk/05/05-trinity-thumb.jpg)](/img/uk/05/05-trinity.jpeg)
+
+Daha sonra diğer arkadaşım geldi ve günün ikinci yarısını da onlarla geçirdik.
+Çocukları parka götürdük, onlar oynarken biz de hasret giderdik.
+Akşam namazına arkadaşım Cambridge'de yeni yapılan bir camiye götürdü bizi, kocaman ve çok güzel bir cami.
+
+[![Cambridge Cami](/img/uk/05/05-mosque-thumb.jpg)](/img/uk/05/05-mosque.jpeg)
+
+Dönüş için akşam 9:30'daki trene yetişmeye çalıştık, boşuna acele etmişiz çünkü tren iptal olmuş ve bir sonraki trene binmek zorunda kaldık.
+Trenler sürekli iptal oluyor veya rötar yapıyor, siftahımızı yapmış olduk.
+Londra'ya döndüğümüzde saat 11 civarıydı, kendimizi eve attığımızda da 12'ye geliyordu.
+Epey yorulduk ama arkadaşları görmek çok iyi geldi.
+
+### 6. Gün
+
+Daha önce Londra'da yaşarken Greenwich bölgesine hiç gitmemiştik.
+Bu kez orayı etraflıca bir gezmek istedik.
+Daha önce bahsettiğim, St James's Park'ta karşılaştığımız arkadaşlarımız da bu bölgede bir ev tutmuşlar.
+Onlarla da tekrar görüşmek ve Greenwich'i dolaşmak için iyi bir fırsat oldu.
+
+Greenwich'te başlangıç meridyeni haricinde diğer ilgi çekici yerler şunlar:
+
+* Cutty Sark: çocuklar sevecektir, eski bir gemiyi müzeye çevirmişler.
+* Greenwich Market: Değişik lezzetleri deneyebileceğiniz küçük bir pazar yeri.
+* National Maritime Museum: Denizcilik müzesi, ücretsiz girebileceğiniz güzel bir müze.
+
+[![Greenwich Gölet](/img/uk/06/06-greenwich1-thumb.jpg)](/img/uk/06/06-greenwich1.jpeg)
+
+---
+
+[![Greenwich Denizcilik Müzesi](/img/uk/06/06-greenwich2-thumb.jpg)](/img/uk/06/06-greenwich2.jpeg)
+
+Greenwich oldukça güzel bir bölge.
+Merkezden biraz uzak kalıyor ama DLR ile yaklaşık yarım saatte Bank istasyonundan buraya gelebildik.
+Oldukça rahat bir yolculuktu.
+
+Yakındaki bir parkta arkadaşlarla buluşup piknik yaptık.
+Londra dümdüz bir şehir demiştim ya, işte Greenwich nadir tepelerden birine sahip.
+Tepe derken yine hafif bir yokuş olarak düşünün, çok yüksek değil.
+İstanbul'la kıyaslanmaz.
+
+Tepede rasathane mevcut, başlangıç meridyeni de buradan geçiyor.
+Bu tepenin manzarası çok güzel.
+
+[![Greenwich Tepe](/img/uk/06/06-greenwich3-thumb.jpg)](/img/uk/06/06-greenwich3.jpeg)
+
+---
+
+[![Greenwich Rasathane](/img/uk/06/06-greenwich4-thumb.jpg)](/img/uk/06/06-greenwich4.jpeg)
+
+Akşam hava kararıken nasıl döneceğimizi düşünüyordum ki, ilk günden dikkatimi çeken uber boatların iskelesinin hemen yanında olduğumuzu fark ettim.
+Biraz pahalı ama en azından nehirde de bir gezinti gibi olur diyerek uber boata binmeye karar verdik.
+Sanırım kişi başı 12 sterlin gibi bir ücret ödedik.
+Akşam hava kararıyordu, gezintiden pek bir şey anlamadık.
+Eğer turistik amaçla binecekseniz hava daha aydınlıkken binmek mantıklı olabilir.
+Uber boat'un hemen hemen meşhur tüm noktalarda bir iskelesi var, nehrin bir kuzeyine bir güneyine uğrayarak zik-zaklar çizerek iskeleler arasında dolaşıyor.
+
+[![Greenwich Nehir](/img/uk/06/06-greenwich5-thumb.jpg)](/img/uk/06/06-greenwich5.jpeg)
+
+---
+
+[![Greenwich Tekne](/img/uk/06/06-greenwichboat-thumb.jpg)](/img/uk/06/06-greenwichboat.jpeg)
+
+Biz kaldığımız yere en yakın nokta olan Bankside iskelesinde indik ve Southwark köprüsünden geçerek eve ulaştık.
+
+[![Greenwich Tekne](/img/uk/06/06-stpaul-thumb.jpg)](/img/uk/06/06-stpaul.jpeg)
+
+---
+
+[![Greenwich Tekne](/img/uk/06/06-bridge-thumb.jpg)](/img/uk/06/06-bridge.jpeg)
+
+Böylece pazar günü yaptığımız Greenwich ziyaretiyle Londra'daki ilk haftamızı tamamlamış olduk.
+Gezinin ikinci bölümü daha çok Londra'nın merkezinde geçti ve bol bol alışveriş yapıp değişik lezzetleri denedik.
+Yazı hazır olur olmaz linkini paylaşacağım.
