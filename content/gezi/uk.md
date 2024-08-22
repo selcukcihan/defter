@@ -3,7 +3,7 @@ title: "Birleşik Krallık - 1. Bölüm"
 tags: ["birleşik krallık", "gezi", "ingiltere", "uk", "iskoçya", "londra", "bristol", "york", "edinburgh", "vize"]
 date: 2024-08-13T07:41:29+03:00
 draft: false
-images: ["/img/uk/01-gece.jpeg"]
+images: ["/img/uk/06/06-stpaul.jpeg"]
 ---
 
 Gezi yazılarımın ikincisinde, bu yaz gerçekleştirdiğimiz 3 haftalık birleşik krallık seyahatimizin Londra'da geçen ilk haftasında neler yaptığımızı anlattım.
