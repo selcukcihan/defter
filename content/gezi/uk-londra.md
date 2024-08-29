@@ -1,6 +1,6 @@
 ---
 title: "Birleşik Krallık - 2. Bölüm"
-tags: ["birleşik krallık", "gezi", "ingiltere", "uk", "iskoçya", "londra", "bristol", "york", "edinburgh", "vize"]
+tags: ["birleşik krallık", "gezi", "ingiltere", "uk", "iskoçya", "londra", "piccadily", "oxford street", "covent garden", "alışveriş", "çay", "kahve", "yeme", "makarna", "turist", "müzeler"]
 date: 2024-08-20T07:41:29+03:00
 draft: false
 images: ["/img/uk/06/06-stpaul.jpeg"]
