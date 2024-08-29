@@ -416,4 +416,4 @@ Biz kaldığımız yere en yakın nokta olan Bankside iskelesinde indik ve South
 
 Böylece pazar günü yaptığımız Greenwich ziyaretiyle Londra'daki ilk haftamızı tamamlamış olduk.
 Gezinin ikinci bölümü daha çok Londra'nın merkezinde geçti ve bol bol alışveriş yapıp değişik lezzetleri denedik.
-Yazı hazır olur olmaz linkini paylaşacağım.
+Bunları da ayrı bir yazıda paylaştım: [Birleşik Krallık - 2. Bölüm](/gezi/uk-londra).
