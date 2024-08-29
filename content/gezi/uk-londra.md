@@ -3,8 +3,8 @@ title: "Birleşik Krallık - 2. Bölüm"
 tags: ["birleşik krallık", "gezi", "ingiltere", "uk", "iskoçya", "londra", "piccadily", "oxford street", "covent garden", "alışveriş", "çay", "kahve", "yeme", "makarna", "turist", "müzeler"]
 date: 2024-08-20T07:41:29+03:00
 draft: false
-images: ["/img/uk/06/06-stpaul.jpeg"]
-description: "Bu yazıda Londra'da geçirdiğimiz ikinci hafta neler yaptık biraz bahsedeceğim."
+images: ["/img/uk-londra/10/10-towerbridge.jpeg"]
+description: "Londra'da geçirdiğimiz ikinci hafta bol bol alışveriş yaptık ve şehir merkezini yürüyerek dolaştık."
 ---
 
 [Bir önceki yazımda](/gezi/uk) Birleşik Krallık seyahatimizin Londra ayağının ilk haftasını anlatmıştım.
