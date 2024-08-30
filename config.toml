@@ -1,6 +1,6 @@
 baseURL = "https://blog.selcukcihan.com/"
 languageCode = "tr-TR"
-title = "Yazılım ile ilgili notlarım ve daha fazlası"
+title = "Yazılım ve daha fazlası"
 theme = "ezhil"
 DefaultContentLanguage = "tr"
 copyright = "© Selçuk Cihan"

@@ -1,5 +1,5 @@
 ---
-title: "Birleşik Krallık - 2. Bölüm"
+title: "Birleşik Krallık - 2. Bölüm, Londra"
 tags: ["birleşik krallık", "gezi", "ingiltere", "uk", "iskoçya", "londra", "piccadily", "oxford street", "covent garden", "alışveriş", "çay", "kahve", "yeme", "makarna", "turist", "müzeler"]
 date: 2024-08-20T07:41:29+03:00
 draft: false
@@ -10,7 +10,16 @@ description: "Londra'da geçirdiğimiz ikinci hafta bol bol alışveriş yaptık
 [Bir önceki yazımda](/gezi/uk) Birleşik Krallık seyahatimizin Londra ayağının ilk haftasını anlatmıştım.
 Bu kez Londra'da geçirdiğimiz ikinci hafta neler yaptığımızı anlatacağım.
 
-### 7. Gün
+## Başlıklar
+
+- [7. Gün](./#7-gün)
+- [8. Gün](./#8-gün)
+- [9. Gün](./#9-gün)
+- [10. Gün](./#10-gün)
+- [11. Gün](./#11-gün)
+- [12. Gün](./#12-gün)
+
+## 7. Gün
 
 Pazartesi günüydü, haftaya müze ziyaretleriyle başladık.
 Ama önce yine enfes bir kahvaltı yaptık.
@@ -101,7 +110,7 @@ Epey yorulduktan sonra, sanırım 15 numaralı otobüse binip kaldığımız yer
 
 [![Gece 2](/img/uk-londra/07/07-night2-thumb.jpg)](/img/uk-londra/07/07-night2.jpeg)
 
-### 8. Gün
+## 8. Gün
 
 Güne müze ziyaretiyle başladık.
 British Museum'a gittik.
@@ -147,7 +156,7 @@ Biz de London Bridge üzerinden gecenin serinliğinde yürüyerek ve fotoğraf �
 Monument (Londra'daki tarihi büyük yangın sonrası dikilen bir anıt) üzerinden Cannon Street'i takip ederek otele vardık.
 Bank istasyonu yenilenmiş, biz eskiden kaldığımızda bu cadde üstünde girişi yoktu istasyonun, şimdi kocaman bir giriş koymuşlar buraya.
 
-### 9. Gün
+## 9. Gün
 
 Trafalgar meydanına gitmeye karar verdik.
 Hemen yanımızdaki Mansion House istasyonundan district/circle hatlarından birine binip Embankment durağında indik.
@@ -229,7 +238,7 @@ Daha önce İngiltere'ye ilk geldiğimizde burada cuma namazı kılmıştım, yi
 
 [![Cami](/img/uk-londra/09/09-mosque-thumb.jpg)](/img/uk-londra/09/09-mosque.jpeg)
 
-### 10. Gün
+## 10. Gün
 
 Geçen hafta Greenwich'e gittiğimizde pazar günüydü ve çoğu yer kapalıydı, dolayısıyla fazla gezememiştik.
 Ayrıca müzeye de uğramamıştık, burada çok güzel bir denizcilik müzesi varmış.
@@ -288,7 +297,7 @@ Hava da çok sıcaktı, biraz eziyete dönüşeceğini düşünerek ve tavsiyele
 
 [![Dönme Dolap](/img/uk-londra/10/10-eye-thumb.jpg)](/img/uk-londra/10/10-eye.jpeg)
 
-### 11. Gün
+## 11. Gün
 
 Güne yine alışveriş ve mağaza gezerek başladık.
 Oxford caddesi civarında dolaştık.
@@ -333,7 +342,7 @@ Deneyerek almak en doğrusu, ufak karton bardaklarla istediğiniz çayların tad
 Çay bizde de yetişiyor ama nedense bu kadar güzel olmuyor marketlerimizde satılan çaylar.
 Hammadde mevcut, ama toplama ve işleme kısmında yeterli özeni göstermiyoruz sanırım.
 
-### 12. Gün
+## 12. Gün
 
 Bugün bir arkadaşımızla Borough Market'te buluşmak üzere sözleşmiştik.
 Saat 12 gibi Borough Market'e geldik, burası kaldığımız yere yürüyerek 15 dakika uzaklıkta.

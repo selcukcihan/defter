@@ -1,5 +1,5 @@
 ---
-title: "Birleşik Krallık - 1. Bölüm"
+title: "Birleşik Krallık - 1. Bölüm, Londra"
 tags: ["birleşik krallık", "gezi", "ingiltere", "uk", "iskoçya", "londra", "bristol", "york", "edinburgh", "vize"]
 date: 2024-08-13T07:41:29+03:00
 draft: false
@@ -38,6 +38,19 @@ Sonunda cesaretimi topladım ve vize işlemlerini başlattım.
 * Yaşam standartları ortalaması bizden daha iyi, veya şöyle düşünün, aynı işi yaparak daha iyi şartlarda yaşayabiliyorlar
 * Kendinize sınırsız internetli bir hat alın
 * Havası kötü, çok kötü
+
+## Başlıklar
+
+1. [Vize](./#vize)
+2. [Hazırlık](./#hazırlık)
+3. [Güzergah](./#güzergah)
+4. [Başlangıç](./#başlangıç)
+5. [1. Gün](./#1-gün)
+6. [2. Gün](./#2-gün)
+7. [3. Gün](./#3-gün)
+8. [4. Gün](./#4-gün)
+9. [5. Gün](./#5-gün)
+10. [6. Gün](./#6-gün)
 
 ## Vize
 
@@ -89,7 +102,7 @@ Hemen hemen tüm istasyonlarda asansör bulunuyor ve zaten şehirler dümdüz ol
 Kalacağımız yerleri de hep istasyonlara yakın seçtik.
 İstasyonlar şehir merkezlerinde oluyor, ulaşımımız çok pratikti.
 
-## Londra
+## Başlangıç
 
 Gezimize Londra'dan başladık.
 Uçak biletlerini gitmemize 2 hafta kala aldık, ona rağmen kişi başı tek yön fiyatı 3 bin lira civarındaydı.
@@ -107,7 +120,7 @@ Ayrıca daha önce iş için geldiğimizde yine burada kalmıştık yaklaşık 2
 Ulaşım için oyster kart almadık, direkt kredi kartlarımızla bindik metro ve otobüslere.
 Oyster almanın pek anlamı yok, hatta daha dezavantajlı bile olabilir çünkü ilk kez alırken kart bedeli de var.
 
-### 1. Gün
+## 1. Gün
 
 Stansted havalimanına öğlen saatlerinde indik.
 Pasaport kontrolünden hızlıca geçtik.
@@ -161,7 +174,7 @@ Fiyat olarak da hemen hemen aynı İstanbul'la.
 Genel olarak musluk suyu içiliyor, biz gittiğimiz yerlerde otel lobisinde musluk suyunu içebilir miyiz diye sorduk ve hepsinde içilebilir dediler.
 Suyumuzu musluktan içtik ve elhamdulillah bir problem yaşamadık.
 
-### 2. Gün
+## 2. Gün
 
 Sabah eşimin hazırladığı enfes kahvaltıdan sonra çantalarımızı hazırlayıp Londra'nın kuzeyine, eski kaldığımız mahalleye doğru yola çıktık.
 Trene bineceğimiz Moorgate istasyonuna doğru yürürken yol üstündeki Vodafone bayisinden bir sim kart aldım.
@@ -208,7 +221,7 @@ Gün aydınlığında kıytırık bir havai fişek gösterisi izledik.
 Şehrin çeşitli noktalarında, özellikle parklarda, ücretli tuvaletler bulmak mümkün.
 Çok sık olmasa da, ara ara su içebileceğiniz çeşmeler de mevcut.
 
-### 3. Gün
+## 3. Gün
 
 Hava yine çok güzeldi.
 Bu kez Hyde Park taraflarına gitmeye karar verdik.
@@ -267,7 +280,7 @@ Eve vardığımızda epey yorulmuştuk, hareketli bir gündü.
 
 [![Gece 4](/img/uk/03/03-night4-thumb.jpg)](/img/uk/03/03-night4.jpeg)
 
-### 4. Gün
+## 4. Gün
 
 Gezimizin 4. gününde, yoğun bir program takip etmemize rağmen henüz gitmediğimiz pek çok yer vardı.
 Cuma namazını da düşünerek, Regent's Park'ta takılmaya karar verdik.
@@ -324,7 +337,7 @@ Hemen yakındaki Southwark köprüsünden tekrar kuzey tarafa geçip, apartmanı
 
 [![Köprü](/img/uk/04/04-bridge-thumb.jpg)](/img/uk/04/04-bridge.jpeg)
 
-### 5. Gün
+## 5. Gün
 
 Cambridge'de çok yakın iki arkadaşım yaşıyor, onları ziyaret etmek için bir günümüzü ayırdık.
 Kings Cross istasyonundan gidiş dönüş (aynı gün) biletlerimizi 3 kişi grup indirimiyle birlikte 42.90 sterline aldık.
@@ -356,7 +369,7 @@ Trenler sürekli iptal oluyor veya rötar yapıyor, siftahımızı yapmış oldu
 Londra'ya döndüğümüzde saat 11 civarıydı, kendimizi eve attığımızda da 12'ye geliyordu.
 Epey yorulduk ama arkadaşlarımızı görmek çok iyi geldi.
 
-### 6. Gün
+## 6. Gün
 
 Daha önce Londra'da yaşarken Greenwich bölgesine hiç gitmemiştik.
 Bu kez orayı etraflıca bir gezmek istedik.

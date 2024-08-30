@@ -16,3 +16,6 @@ Yazılarımda neler bulacaksınız:
 * Problemlere getirdiğim çözümlerimi
 * Merak ettiğim yeni bir kütüphaneyi veya *frameworkü* nasıl öğrendiğimi
 * Doğrudan yazılımla alakası olmayan ama yazılımcıların fayda sağlayabileceği tavsiyelerimi
+* Okuduğum kitapların özetleri
+* Gezdiğim, gördüğüm yerler
+* Belirli bir kategoriye girmeyen genel yazılar
