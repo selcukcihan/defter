@@ -76,12 +76,7 @@ url = "/devops"
 weight = 4
 
 [[menu.main]]
-name = "Metodoloji"
-url = "/metodoloji"
-weight = 5
-
-[[menu.main]]
-name = "Kitaplar"
+name = "Kitap"
 url = "/kitap"
 weight = 6
 
