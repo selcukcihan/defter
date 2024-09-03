@@ -386,4 +386,4 @@ Beraber oturup pikniğimizi yaptık, işten güçten bahsettik, zamanın nasıl 
 Hava kararmaya başladığında vedalaştık ve metroya binerek otelimize döndük.
 Bu gece Londra'daki son gecemizdi, ertesi gün öğlen saatlerinde Bristol'e giden trene binecektik.
 
-Gezinin 3. bölümünde Bristol ve sonrasında uğradığımız yerlerden bahsedeceğim.
+[Gezinin 3. bölümünde](/gezi/bristol) Bristol ve sonrasında uğradığımız yerlerden bahsettim.
